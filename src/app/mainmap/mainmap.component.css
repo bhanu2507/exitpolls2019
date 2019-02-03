@@ -5,7 +5,7 @@
     margin: 0;
   }
   .outer-wrapper .map-wrapper {
-    height: 89.6vh;
+    height: 100vh;
   }
   .outer-wrapper .map-wrapper agm-map {
     height: 100%;

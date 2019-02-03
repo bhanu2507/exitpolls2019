@@ -12,9 +12,10 @@
 }
 
 .fixed-header {
-  position: sticky;
+  position: absolute;
   top: 0;
   left: 0;
   z-index: 2;
   width: 100%  !important;
+  opacity: 0.7;
 }
