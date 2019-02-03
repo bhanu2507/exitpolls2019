@@ -1,0 +1,9 @@
+@import '~@angular/material/theming';
+
+@mixin anms-app-component-theme($theme) {
+    $primary: map-get($theme, primary);
+    $accent: map-get($theme, accent);
+    .divbg {
+        background-color: mat-color($accent, lighter);
+      }
+}
