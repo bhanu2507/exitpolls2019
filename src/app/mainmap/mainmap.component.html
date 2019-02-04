@@ -7,11 +7,15 @@
     [zoom]="zoom"
     id="AgmMap"
     #AgmMap>
-    <agm-marker 
+    <!-- <agm-marker 
        [latitude]="lat"
        [longitude]="lng"
        [markerClickable]="true"
-       [iconUrl]="'/assets/map-marker-2-512.gif'"></agm-marker>
+       [iconUrl]="'/assets/map-marker-2-512.gif'"></agm-marker> -->
+       <div *ngFor="let con of cons" >
+        <agm-marker [latitude]="con.lat" [longitude]="con.lng" [markerClickable]="true" [iconUrl]="'/assets/map-marker-2-512.gif'" (markerClick)="openDialog(con.ID)"></agm-marker> 
+       </div>   
+       
   </agm-map>
   </div>
 </div>
