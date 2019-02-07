@@ -13,7 +13,7 @@
        [markerClickable]="true"
        [iconUrl]="'/assets/map-marker-2-512.gif'"></agm-marker> -->
        <div *ngFor="let con of cons" >
-        <agm-marker [latitude]="con.lat" [longitude]="con.lng" [markerClickable]="true" [iconUrl]="'/assets/map-marker-2-512.gif'" (markerClick)="openDialog(con.ID)"></agm-marker> 
+        <agm-marker [latitude]="con.lat" [longitude]="con.long" [markerClickable]="true" [iconUrl]="'/assets/map-marker-2-512.gif'" (markerClick)="openDialog(con.firstname+' '+con.lastname)"></agm-marker> 
        </div>   
        
   </agm-map>

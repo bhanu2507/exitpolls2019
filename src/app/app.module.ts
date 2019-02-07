@@ -9,7 +9,8 @@ import { RouterModule, Routes } from '@angular/router';
 import { AgmCoreModule } from '@agm/core';
 import { TopnavComponent } from './topnav/topnav.component';
 import { LayoutModule } from '@angular/cdk/layout';
-import { MatToolbarModule, MatButtonModule, MatSidenavModule, MatIconModule, MatListModule, MatDialogModule} from '@angular/material';
+import { MatToolbarModule, MatButtonModule, MatSidenavModule,
+  MatIconModule, MatListModule, MatDialogModule, MatCardModule} from '@angular/material';
 import { MainmapComponent } from './mainmap/mainmap.component';
 import { ContactusComponent } from './contactus/contactus.component';
 import { ConspopComponent } from './conspop/conspop.component';
@@ -39,6 +40,7 @@ const appRoutes: Routes = [
     MatIconModule,
     MatListModule,
     MatDialogModule,
+    MatCardModule,
     BrowserAnimationsModule,
     NoopAnimationsModule,
     HttpClientModule,

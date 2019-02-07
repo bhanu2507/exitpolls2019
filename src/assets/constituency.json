@@ -1,20 +1,4718 @@
 [
-    {
-       "ID": "001",
-       "Name": "Hyderabad",
-       "lat": "17.3850",
-       "lng": "78.4867"
-    },
-    {
-        "ID": "002",
-        "Name": "Chennai",
-        "lat": "13.0827",
-        "lng": "80.2707"
-    },
-    {
-        "ID": "003",
-        "Name": "Bengluru",
-        "lat": "12.9716",
-        "lng": "77.5946"
-    }
+	{
+		"lastname": "Abdullah",
+		"firstname": "Dr. Farooq",
+		"party": "Jammu and Kashmir National Conference",
+		"city": "Srinagar",
+		"state": "Jammu and Kashmir",
+		"lat": "34.0836708",
+		"long": "74.7972825"
+	},
+	{
+		"lastname": "Adhalrao Patil",
+		"firstname": " Shri Shivaji",
+		"party": "Shiv Sena",
+		"city": "Shirur",
+		"state": "Maharashtra",
+		"lat": "18.8272478",
+		"long": "74.3730083"
+	},
+	{
+		"lastname": "Adhikari",
+		"firstname": " Shri Deepak (Dev)",
+		"party": "All India Trinamool Congress",
+		"city": "Ghatal",
+		"state": "West Bengal",
+		"lat": "22.6636967",
+		"long": "87.7468071"
+	},
+	{
+		"lastname": "Adhikari",
+		"firstname": "Shri Dibyendu",
+		"party": "All India Trinamool Congress",
+		"city": "Tamluk",
+		"state": "West Bengal",
+		"lat": "22.2787843",
+		"long": "87.9187711"
+	},
+	{
+		"lastname": "Adhikari",
+		"firstname": " Shri Sisir Kumar",
+		"party": "All India Trinamool Congress",
+		"city": "Kanthi",
+		"state": "West Bengal",
+		"lat": "#VALUE!",
+		"long": "#VALUE!"
+	},
+	{
+		"lastname": "Adsul",
+		"firstname": " Shri Anandrao",
+		"party": "Shiv Sena",
+		"city": "Amravati",
+		"state": "Maharashtra",
+		"lat": "20.9374238",
+		"long": "77.7795513"
+	},
+	{
+		"lastname": "Advani",
+		"firstname": " Shri Lal Krishna",
+		"party": "Bharatiya Janata Party",
+		"city": "Gandhinagar",
+		"state": "Gujarat",
+		"lat": "23.2156354",
+		"long": "72.6369415"
+	},
+	{
+		"lastname": "Agrawal",
+		"firstname": " Shri Rajendra",
+		"party": "Bharatiya Janata Party",
+		"city": "Meerut",
+		"state": "Uttar Pradesh",
+		"lat": "28.9844618",
+		"long": "77.7064137"
+	},
+	{
+		"lastname": "Ahir",
+		"firstname": " Shri Hansraj Gangaram",
+		"party": "Bharatiya Janata Party",
+		"city": "Chandrapur",
+		"state": "Maharashtra",
+		"lat": "19.9704597",
+		"long": "79.3014845"
+	},
+	{
+		"lastname": "Ahlawat",
+		"firstname": " Smt. Santosh",
+		"party": "Bharatiya Janata Party",
+		"city": "Jhunjhunu",
+		"state": "Rajasthan",
+		"lat": "28.1288747",
+		"long": "75.3995089"
+	},
+	{
+		"lastname": "Ahluwalia",
+		"firstname": " Shri S.S.",
+		"party": "Bharatiya Janata Party",
+		"city": "Darjeeling",
+		"state": "West Bengal",
+		"lat": "27.0360066",
+		"long": "88.2626751"
+	},
+	{
+		"lastname": "Ahmed",
+		"firstname": "Smt. Sajda",
+		"party": "All India Trinamool Congress",
+		"city": "Uluberia",
+		"state": "West Bengal",
+		"lat": "22.4744363",
+		"long": "88.1000377"
+	},
+	{
+		"lastname": "Ajmal",
+		"firstname": " Maulana Badruddin",
+		"party": "All India United Democratic Front",
+		"city": "Dhubri",
+		"state": "Assam",
+		"lat": "26.0206982",
+		"long": "89.9743463"
+	},
+	{
+		"lastname": "Ajmal",
+		"firstname": " Shri Sirajuddin",
+		"party": "All India United Democratic Front",
+		"city": "Barpeta",
+		"state": "Assam",
+		"lat": "26.3304209",
+		"long": "91.0040547"
+	},
+	{
+		"lastname": "Alam",
+		"firstname": "Shri Sarfaraz",
+		"party": "Rashtriya Janata Dal",
+		"city": "Araria",
+		"state": "Bihar",
+		"lat": "26.1311375",
+		"long": "87.445534"
+	},
+	{
+		"lastname": "Ali",
+		"firstname": " Shri Idris",
+		"party": "All India Trinamool Congress",
+		"city": "Basirhat",
+		"state": "West Bengal",
+		"lat": "22.6574017",
+		"long": "88.8671766"
+	},
+	{
+		"lastname": "Angadi",
+		"firstname": " Shri Suresh Chanabasappa",
+		"party": "Bharatiya Janata Party",
+		"city": "Belgaum",
+		"state": "Karnataka",
+		"lat": "15.8496953",
+		"long": "74.4976741"
+	},
+	{
+		"lastname": "Anil (alias Padmakar) Gulabrao",
+		"firstname": " Shirole",
+		"party": "Bharatiya Janata Party",
+		"city": "Pune",
+		"state": "Maharashtra",
+		"lat": "18.5204303",
+		"long": "73.8567437"
+	},
+	{
+		"lastname": "Antony",
+		"firstname": " Shri Anto",
+		"party": "Indian National Congress",
+		"city": "Pathanamthitta",
+		"state": "Kerala",
+		"lat": "9.2647582",
+		"long": "76.7870414"
+	},
+	{
+		"lastname": "Anwar",
+		"firstname": " Shri Tariq",
+		"party": "Nationalist Congress Party",
+		"city": "Katihar",
+		"state": "Bihar",
+		"lat": "25.552048",
+		"long": "87.5718609"
+	},
+	{
+		"lastname": "Arunmozhithevan",
+		"firstname": " Shri A.",
+		"party": "All India Anna Dravida Munnetra Kazhagam",
+		"city": "Cuddalore",
+		"state": "Tamil Nadu",
+		"lat": "11.7480419",
+		"long": "79.7713687"
+	},
+	{
+		"lastname": "Ashokkumar",
+		"firstname": " Shri K.",
+		"party": "All India Anna Dravida Munnetra Kazhagam",
+		"city": "Krishnagiri",
+		"state": "Tamil Nadu",
+		"lat": "12.5186113",
+		"long": "78.2137365"
+	},
+	{
+		"lastname": "Ashwini Kumar",
+		"firstname": " Shri",
+		"party": "Bharatiya Janata Party",
+		"city": "Karnal",
+		"state": "Haryana",
+		"lat": "29.6856929",
+		"long": "76.9904825"
+	},
+	{
+		"lastname": "Aujla",
+		"firstname": "Shri Gurjeet Singh",
+		"party": "Indian National Congress",
+		"city": "Amritsar",
+		"state": "Punjab",
+		"lat": "31.6339793",
+		"long": "74.8722642"
+	},
+	{
+		"lastname": "Azad",
+		"firstname": " Shri Kirti (JHA)",
+		"party": "Bharatiya Janata Party",
+		"city": "Darbhanga",
+		"state": "Bihar",
+		"lat": "26.111868",
+		"long": "85.896004"
+	},
+	{
+		"lastname": "Babul Supriyo",
+		"firstname": "Shri",
+		"party": "Bharatiya Janata Party",
+		"city": "Asansol",
+		"state": "West Bengal",
+		"lat": "23.6739452",
+		"long": "86.9523954"
+	},
+	{
+		"lastname": "Badal",
+		"firstname": "Smt. Harsimrat Kaur",
+		"party": "Shiromani Akali Dal",
+		"city": "Bathinda",
+		"state": "Punjab",
+		"lat": "30.210994",
+		"long": "74.9454745"
+	},
+	{
+		"lastname": "Baheria",
+		"firstname": "Shri Subhash Chandra",
+		"party": "Bharatiya Janata Party",
+		"city": "Bhilwara",
+		"state": "Rajasthan",
+		"lat": "25.321377",
+		"long": "74.586953"
+	},
+	{
+		"lastname": "Baig",
+		"firstname": "Shri Muzaffar Hussain",
+		"party": "Jammu and Kashmir Peoples Democratic Party",
+		"city": "Baramulla",
+		"state": "Jammu and Kashmir",
+		"lat": "34.1595145",
+		"long": "74.3587473"
+	},
+	{
+		"lastname": "Bais",
+		"firstname": "Shri Ramesh",
+		"party": "Bharatiya Janata Party",
+		"city": "Raipur",
+		"state": "Chhattisgarh",
+		"lat": "21.2513844",
+		"long": "81.6296413"
+	},
+	{
+		"lastname": "Baite",
+		"firstname": "Shri Thangso",
+		"party": "Indian National Congress",
+		"city": "Outer Manipur",
+		"state": "Manipur",
+		"lat": "24.6637173",
+		"long": "93.9062688"
+	},
+	{
+		"lastname": "Baker",
+		"firstname": "Shri George",
+		"party": "Bharatiya Janata Party",
+		"city": "Nominated Anglo-Indian",
+		"state": "West Bengal",
+		"lat": "25.627595",
+		"long": "85.1080323"
+	},
+	{
+		"lastname": "Bakshi",
+		"firstname": "Shri Subrata",
+		"party": "All India Trinamool Congress",
+		"city": "Kolkata Dakshin",
+		"state": "West Bengal",
+		"lat": "22.5038174",
+		"long": "88.314212"
+	},
+	{
+		"lastname": "Bala",
+		"firstname": "Smt. Anju",
+		"party": "Bharatiya Janata Party",
+		"city": "Misrikh",
+		"state": "Uttar Pradesh",
+		"lat": "27.4292761",
+		"long": "80.5299541"
+	},
+	{
+		"lastname": "Balyan",
+		"firstname": "Dr. Sanjeev Kumar",
+		"party": "Bharatiya Janata Party",
+		"city": "Muzaffarnagar",
+		"state": "Uttar Pradesh",
+		"lat": "29.4726817",
+		"long": "77.7085091"
+	},
+	{
+		"lastname": "Bandyopadhyay",
+		"firstname": "Shri Sudip",
+		"party": "All India Trinamool Congress",
+		"city": "Kolkata Uttar",
+		"state": "West Bengal",
+		"lat": "22.5872558",
+		"long": "88.3681514"
+	},
+	{
+		"lastname": "Banerjee",
+		"firstname": " Shri Abhishek",
+		"party": "All India Trinamool Congress",
+		"city": "Diamond Harbour",
+		"state": "West Bengal",
+		"lat": "22.1987268",
+		"long": "88.2022876"
+	},
+	{
+		"lastname": "Banerjee",
+		"firstname": "Shri Kalyan",
+		"party": "All India Trinamool Congress",
+		"city": "Serampore",
+		"state": "West Bengal",
+		"lat": "22.748331",
+		"long": "88.3385053"
+	},
+	{
+		"lastname": "Banerjee",
+		"firstname": "Shri Prasun",
+		"party": "All India Trinamool Congress",
+		"city": "Howrah",
+		"state": "West Bengal",
+		"lat": "22.5957689",
+		"long": "88.2636394"
+	},
+	{
+		"lastname": "Bansode",
+		"firstname": "Shri Sharadkumar Maruti",
+		"party": "Bharatiya Janata Party",
+		"city": "Solapur",
+		"state": "Maharashtra",
+		"lat": "17.6599188",
+		"long": "75.9063906"
+	},
+	{
+		"lastname": "Barman",
+		"firstname": "Shri Bijoy Chandra",
+		"party": "All India Trinamool Congress",
+		"city": "Jalpaiguri",
+		"state": "West Bengal",
+		"lat": "26.5434772",
+		"long": "88.7205256"
+	},
+	{
+		"lastname": "Barne",
+		"firstname": "Shri Shrirang Appa",
+		"party": "Shiv Sena",
+		"city": "Maval",
+		"state": "Maharashtra",
+		"lat": "41.2921345",
+		"long": "-81.4662576"
+	},
+	{
+		"lastname": "Baruah",
+		"firstname": "Shri Pradan",
+		"party": "Bharatiya Janata Party",
+		"city": "Lakhimpur",
+		"state": "Assam",
+		"lat": "27.9462395",
+		"long": "80.7787163"
+	},
+	{
+		"lastname": "Basheer",
+		"firstname": "Shri E. T. Mohammed",
+		"party": "Indian Union Muslim League",
+		"city": "Ponnani",
+		"state": "Kerala",
+		"lat": "10.7677201",
+		"long": "75.9259013"
+	},
+	{
+		"lastname": "Bhabhor",
+		"firstname": "Shri Jaswantsinh Sumanbhai",
+		"party": "Bharatiya Janata Party",
+		"city": "Dahod",
+		"state": "Gujarat",
+		"lat": "22.8379314",
+		"long": "74.2531465"
+	},
+	{
+		"lastname": "Bhagat",
+		"firstname": "Shri Bodhsingh",
+		"party": "Bharatiya Janata Party",
+		"city": "Balaghat",
+		"state": "Madhya Pradesh",
+		"lat": "21.812876",
+		"long": "80.1838293"
+	},
+	{
+		"lastname": "Bhagat",
+		"firstname": "Shri Sudarshan",
+		"party": "Bharatiya Janata Party",
+		"city": "Lohardaga",
+		"state": "Jharkhand",
+		"lat": "23.4337504",
+		"long": "84.6479124"
+	},
+	{
+		"lastname": "Bhamre",
+		"firstname": "Dr. Subhash Ramrao",
+		"party": "Bharatiya Janata Party",
+		"city": "Dhule",
+		"state": "Maharashtra",
+		"lat": "20.9042201",
+		"long": "74.7748979"
+	},
+	{
+		"lastname": "Bharathimohan",
+		"firstname": "Shri R.K.",
+		"party": "All India Anna Dravida Munnetra Kazhagam",
+		"city": "Mayiladuthurai",
+		"state": "Tamil Nadu",
+		"lat": "11.1011816",
+		"long": "79.6498351"
+	},
+	{
+		"lastname": "Bhatt",
+		"firstname": "Smt. Ranjanben Dhananjay",
+		"party": "Bharatiya Janata Party",
+		"city": "Vadodara",
+		"state": "Gujarat",
+		"lat": "22.3071588",
+		"long": "73.1812187"
+	},
+	{
+		"lastname": "Bhawana Gawali (Patil)",
+		"firstname": " Ms.",
+		"party": "Shiv Sena",
+		"city": "Yavatmal-Washim",
+		"state": "Maharashtra",
+		"lat": "20.3792965",
+		"long": "77.8367282"
+	},
+	{
+		"lastname": "Bhonsle",
+		"firstname": "Shri Udayanraje Pratapsingh",
+		"party": "Nationalist Congress Party",
+		"city": "Satara",
+		"state": "Maharashtra",
+		"lat": "17.6804639",
+		"long": "74.018261"
+	},
+	{
+		"lastname": "Bhuria",
+		"firstname": "Shri Kantilal",
+		"party": "Indian National Congress",
+		"city": "Ratlam",
+		"state": "Madhya Pradesh",
+		"lat": "23.3341696",
+		"long": "75.0376325"
+	},
+	{
+		"lastname": "Bidhuri",
+		"firstname": "Shri Ramesh",
+		"party": "Bharatiya Janata Party",
+		"city": "South Delhi",
+		"state": "NCT of Delhi",
+		"lat": "28.4816551",
+		"long": "77.1872857"
+	},
+	{
+		"lastname": "Biju",
+		"firstname": "Dr. Parayamparambil Kuttappan",
+		"party": "Communist Party of India (Marxist)",
+		"city": "Alathur",
+		"state": "Kerala",
+		"lat": "10.6453971",
+		"long": "76.5458462"
+	},
+	{
+		"lastname": "Birla",
+		"firstname": "Shri Om",
+		"party": "Bharatiya Janata Party",
+		"city": "Kota",
+		"state": "Rajasthan",
+		"lat": "44.0668431",
+		"long": "-103.2502728"
+	},
+	{
+		"lastname": "Biswas",
+		"firstname": "Shri Radheshyam",
+		"party": "All India United Democratic Front",
+		"city": "Karimganj",
+		"state": "Assam",
+		"lat": "24.8649128",
+		"long": "92.3591531"
+	},
+	{
+		"lastname": "Bohra",
+		"firstname": "Shri Ramcharan",
+		"party": "Bharatiya Janata Party",
+		"city": "Jaipur",
+		"state": "Rajasthan",
+		"lat": "26.9124336",
+		"long": "75.7872709"
+	},
+	{
+		"lastname": "Boianapalli",
+		"firstname": "Shri Vinod Kumar",
+		"party": "Telangana Rashtra Samithi",
+		"city": "Karimnagar",
+		"state": "Telangana",
+		"lat": "18.4385553",
+		"long": "79.1288412"
+	},
+	{
+		"lastname": "Bose",
+		"firstname": "Prof. (Dr.) Sugata",
+		"party": "All India Trinamool Congress",
+		"city": "Jadavpur",
+		"state": "West Bengal",
+		"lat": "22.4939728",
+		"long": "88.3706712"
+	},
+	{
+		"lastname": "Brahmpura",
+		"firstname": "Shri Ranjit Singh",
+		"party": "Shiromani Akali Dal",
+		"city": "Khadoor Sahib",
+		"state": "Punjab",
+		"lat": "31.4235965",
+		"long": "75.0990746"
+	},
+	{
+		"lastname": "Butta",
+		"firstname": "Smt. Renuka",
+		"party": "Yuvajana Sramika Rythu Congress Party",
+		"city": "Kurnool",
+		"state": "Andhra Pradesh",
+		"lat": "15.8281257",
+		"long": "78.0372792"
+	},
+	{
+		"lastname": "Chakravarty",
+		"firstname": "Smt. Bijoya",
+		"party": "Bharatiya Janata Party",
+		"city": "Gauhati",
+		"state": "Assam",
+		"lat": "26.1445169",
+		"long": "91.7362365"
+	},
+	{
+		"lastname": "Chandel",
+		"firstname": "Kunwar Pushpendra Singh",
+		"party": "Bharatiya Janata Party",
+		"city": "Hamirpur",
+		"state": "Uttar Pradesh",
+		"lat": "31.6861745",
+		"long": "76.5213092"
+	},
+	{
+		"lastname": "Chandrakasi",
+		"firstname": "Shri M.",
+		"party": "All India Anna Dravida Munnetra Kazhagam",
+		"city": "Chidambaram",
+		"state": "Tamil Nadu",
+		"lat": "11.3981936",
+		"long": "79.6953594"
+	},
+	{
+		"lastname": "Chandrappa",
+		"firstname": "Shri B.N.",
+		"party": "Indian National Congress",
+		"city": "Chitradurga",
+		"state": "Karnataka",
+		"lat": "14.2305594",
+		"long": "76.3984537"
+	},
+	{
+		"lastname": "Chandumajra",
+		"firstname": "Shri Prem Singh",
+		"party": "Shiromani Akali Dal",
+		"city": "Anandpur Sahib",
+		"state": "Punjab",
+		"lat": "31.2344015",
+		"long": "76.5054652"
+	},
+	{
+		"lastname": "Chaudhary",
+		"firstname": "Shri Babulal",
+		"party": "Bharatiya Janata Party",
+		"city": "Fatehpur Sikri",
+		"state": "Uttar Pradesh",
+		"lat": "27.0945291",
+		"long": "77.6679292"
+	},
+	{
+		"lastname": "Chaudhary",
+		"firstname": "Shri Birendra Kumar",
+		"party": "Bharatiya Janata Party",
+		"city": "Jhanjharpur",
+		"state": "Bihar",
+		"lat": "26.2674009",
+		"long": "86.2969422"
+	},
+	{
+		"lastname": "Chaudhary",
+		"firstname": "Shri C.R.",
+		"party": "Bharatiya Janata Party",
+		"city": "Nagaur",
+		"state": "Rajasthan",
+		"lat": "27.1983368",
+		"long": "73.7493272"
+	},
+	{
+		"lastname": "Chaudhary",
+		"firstname": "Shri Haribhai Parthibhai",
+		"party": "Bharatiya Janata Party",
+		"city": "Banaskantha",
+		"state": "Gujarat",
+		"lat": "24.3454739",
+		"long": "71.7622481"
+	},
+	{
+		"lastname": "Chaudhary",
+		"firstname": "Shri P.P.",
+		"party": "Bharatiya Janata Party",
+		"city": "Pali",
+		"state": "Rajasthan",
+		"lat": "34.2256512",
+		"long": "-117.1331365"
+	},
+	{
+		"lastname": "Chaudhary",
+		"firstname": "Shri Santokh Singh",
+		"party": "Indian National Congress",
+		"city": "Jalandhar",
+		"state": "Punjab",
+		"lat": "31.3260152",
+		"long": "75.5761829"
+	},
+	{
+		"lastname": "Chaudhury",
+		"firstname": "Shri Jitendra",
+		"party": "Communist Party of India (Marxist)",
+		"city": "Tripura East",
+		"state": "Tripura",
+		"lat": "#VALUE!",
+		"long": "#VALUE!"
+	},
+	{
+		"lastname": "Chauhan",
+		"firstname": "Shri Devusinh Jesingbhai",
+		"party": "Bharatiya Janata Party",
+		"city": "Kheda",
+		"state": "Gujarat",
+		"lat": "22.750651",
+		"long": "72.6846658"
+	},
+	{
+		"lastname": "Chauhan",
+		"firstname": "Shri Nand Kumar Singh",
+		"party": "Bharatiya Janata Party",
+		"city": "Khandwa",
+		"state": "Madhya Pradesh",
+		"lat": "21.8257334",
+		"long": "76.352571"
+	},
+	{
+		"lastname": "Chauhan",
+		"firstname": "Shri Nihal Chand",
+		"party": "Bharatiya Janata Party",
+		"city": "Ganganagar",
+		"state": "Rajasthan",
+		"lat": "29.9038399",
+		"long": "73.8771901"
+	},
+	{
+		"lastname": "Chauhan",
+		"firstname": "Shri Prabhatsinh Pratapsinh",
+		"party": "Bharatiya Janata Party",
+		"city": "Panchmahal",
+		"state": "Gujarat",
+		"lat": "22.8011177",
+		"long": "73.5594128"
+	},
+	{
+		"lastname": "Chautala",
+		"firstname": "Shri Dushyant",
+		"party": "Indian National Lok Dal",
+		"city": "Hisar",
+		"state": "Haryana",
+		"lat": "29.1491875",
+		"long": "75.7216527"
+	},
+	{
+		"lastname": "Chavan",
+		"firstname": "Shri Ashok Shankarrao",
+		"party": "Indian National Congress",
+		"city": "Nanded",
+		"state": "Maharashtra",
+		"lat": "19.1382514",
+		"long": "77.3209555"
+	},
+	{
+		"lastname": "Chavan",
+		"firstname": "Shri Harishchandra Deoram",
+		"party": "Bharatiya Janata Party",
+		"city": "Dindori",
+		"state": "Maharashtra",
+		"lat": "22.8457457",
+		"long": "81.0754657"
+	},
+	{
+		"lastname": "Chavda",
+		"firstname": "Shri Vinod",
+		"party": "Bharatiya Janata Party",
+		"city": "Kachchh",
+		"state": "Gujarat",
+		"lat": "23.7337326",
+		"long": "69.8597406"
+	},
+	{
+		"lastname": "Chhotelal",
+		"firstname": "Shri",
+		"party": "Bharatiya Janata Party",
+		"city": "Robertsganj",
+		"state": "Uttar Pradesh",
+		"lat": "24.6850005",
+		"long": "83.0683519"
+	},
+	{
+		"lastname": "Chinnaraj",
+		"firstname": "Shri Gopalakrishnan",
+		"party": "All India Anna Dravida Munnetra Kazhagam",
+		"city": "Nilgiris",
+		"state": "Tamil Nadu",
+		"lat": "37.4924608",
+		"long": "-121.9280312"
+	},
+	{
+		"lastname": "Choubey",
+		"firstname": "Shri Ashwini Kumar",
+		"party": "Bharatiya Janata Party",
+		"city": "Buxar",
+		"state": "Bihar",
+		"lat": "25.5647103",
+		"long": "83.9777482"
+	},
+	{
+		"lastname": "Choudhary",
+		"firstname": "Shri Ram Tahal",
+		"party": "Bharatiya Janata Party",
+		"city": "Ranchi",
+		"state": "Jharkhand",
+		"lat": "23.3440997",
+		"long": "85.309562"
+	},
+	{
+		"lastname": "Choudhury",
+		"firstname": "Shri Abu Hasem Khan",
+		"party": "Indian National Congress",
+		"city": "Maldaha Dakshin",
+		"state": "West Bengal",
+		"lat": "24.8430682",
+		"long": "87.972681"
+	},
+	{
+		"lastname": "Chowdhary",
+		"firstname": "Shri Pankaj",
+		"party": "Bharatiya Janata Party",
+		"city": "Maharajganj",
+		"state": "Uttar Pradesh",
+		"lat": "27.1177463",
+		"long": "83.5070203"
+	},
+	{
+		"lastname": "Chowdhury",
+		"firstname": "Shri Adhir Ranjan",
+		"party": "Indian National Congress",
+		"city": "Baharampur",
+		"state": "West Bengal",
+		"lat": "24.0988265",
+		"long": "88.2679264"
+	},
+	{
+		"lastname": "Chudasama",
+		"firstname": "Shri Rajeshbhai Naranbhai",
+		"party": "Bharatiya Janata Party",
+		"city": "Junagadh",
+		"state": "Gujarat",
+		"lat": "21.522184",
+		"long": "70.4578768"
+	},
+	{
+		"lastname": "Col. Choudhary",
+		"firstname": "Sona Ram",
+		"party": "Bharatiya Janata Party",
+		"city": "Barmer",
+		"state": "Rajasthan",
+		"lat": "25.7531537",
+		"long": "71.4180622"
+	},
+	{
+		"lastname": "Danve",
+		"firstname": "Shri Raosaheb Patil",
+		"party": "Bharatiya Janata Party",
+		"city": "Jalna",
+		"state": "Maharashtra",
+		"lat": "19.8296893",
+		"long": "75.8800305"
+	},
+	{
+		"lastname": "Dastidar",
+		"firstname": "Dr. (Smt.) Kakoli Ghosh",
+		"party": "All India Trinamool Congress",
+		"city": "Barasat",
+		"state": "West Bengal",
+		"lat": "22.7228159",
+		"long": "88.480552"
+	},
+	{
+		"lastname": "Datta",
+		"firstname": "Shri Sankar Prasad",
+		"party": "Communist Party of India (Marxist)",
+		"city": "Tripura West",
+		"state": "Tripura",
+		"lat": "23.899682",
+		"long": "91.4048249"
+	},
+	{
+		"lastname": "Dattatreya",
+		"firstname": "Shri Bandaru",
+		"party": "Bharatiya Janata Party",
+		"city": "Secunderabad",
+		"state": "Telangana",
+		"lat": "17.4399295",
+		"long": "78.4982741"
+	},
+	{
+		"lastname": "De(Nag)",
+		"firstname": "Dr. (Smt.) Ratna",
+		"party": "All India Trinamool Congress",
+		"city": "Hooghly",
+		"state": "West Bengal",
+		"lat": "22.896256",
+		"long": "88.2461183"
+	},
+	{
+		"lastname": "Deka",
+		"firstname": "Shri Ramen",
+		"party": "Bharatiya Janata Party",
+		"city": "Mangaldoi",
+		"state": "Assam",
+		"lat": "26.44632",
+		"long": "92.0322172"
+	},
+	{
+		"lastname": "Deo",
+		"firstname": "Shri Arka Keshari",
+		"party": "Biju Janata Dal",
+		"city": "Kalahandi",
+		"state": "Odisha",
+		"lat": "19.9137363",
+		"long": "83.1649001"
+	},
+	{
+		"lastname": "Dev",
+		"firstname": "Km. Sushmita",
+		"party": "Indian National Congress",
+		"city": "Silchar",
+		"state": "Assam",
+		"lat": "24.8332708",
+		"long": "92.7789054"
+	},
+	{
+		"lastname": "Devegowda",
+		"firstname": "Shri H.D.",
+		"party": "Janata Dal (Secular)",
+		"city": "Hassan",
+		"state": "Karnataka",
+		"lat": "13.0068142",
+		"long": "76.0995519"
+	},
+	{
+		"lastname": "Devi",
+		"firstname": "Smt. Rama",
+		"party": "Bharatiya Janata Party",
+		"city": "Sheohar",
+		"state": "Bihar",
+		"lat": "26.5145872",
+		"long": "85.2942313"
+	},
+	{
+		"lastname": "Devi",
+		"firstname": "Smt. Veena",
+		"party": "Lok Jan Shakti Party",
+		"city": "Munger",
+		"state": "Bihar",
+		"lat": "32.806564",
+		"long": "-96.76956"
+	},
+	{
+		"lastname": "Dharambir Singh",
+		"firstname": "Shri",
+		"party": "Bharatiya Janata Party",
+		"city": "Bhiwani-Mahendragarh",
+		"state": "Haryana",
+		"lat": "28.5923723",
+		"long": "75.9927652"
+	},
+	{
+		"lastname": "Dhotre",
+		"firstname": "Shri Sanjay Shamrao",
+		"party": "Bharatiya Janata Party",
+		"city": "Akola",
+		"state": "Maharashtra",
+		"lat": "20.7002159",
+		"long": "77.0081678"
+	},
+	{
+		"lastname": "Dhruvanarayana",
+		"firstname": "Shri R.",
+		"party": "Indian National Congress",
+		"city": "Chamrajanagar",
+		"state": "Karnataka",
+		"lat": "11.9261471",
+		"long": "76.9437312"
+	},
+	{
+		"lastname": "Dhurve",
+		"firstname": "Smt. Jyoti",
+		"party": "Bharatiya Janata Party",
+		"city": "Betul",
+		"state": "Madhya Pradesh",
+		"lat": "21.9011601",
+		"long": "77.8960201"
+	},
+	{
+		"lastname": "Diwakar",
+		"firstname": "Shri Rajesh Kumar",
+		"party": "Bharatiya Janata Party",
+		"city": "Hathras",
+		"state": "Uttar Pradesh",
+		"lat": "27.6056212",
+		"long": "78.0537813"
+	},
+	{
+		"lastname": "Dohrey",
+		"firstname": "Shri Ashok Kumar",
+		"party": "Bharatiya Janata Party",
+		"city": "Etawah",
+		"state": "Uttar Pradesh",
+		"lat": "26.8117116",
+		"long": "79.0046898"
+	},
+	{
+		"lastname": "Dr. Kirit Somaiya",
+		"firstname": "",
+		"party": "Bharatiya Janata Party",
+		"city": "Mumbai-North-East",
+		"state": "Maharashtra",
+		"lat": "19.0759837",
+		"long": "72.8776559"
+	},
+	{
+		"lastname": "Dubey",
+		"firstname": "Dr. Nishikant",
+		"party": "Bharatiya Janata Party",
+		"city": "Godda",
+		"state": "Jharkhand",
+		"lat": "24.8255215",
+		"long": "87.2135177"
+	},
+	{
+		"lastname": "Dubey",
+		"firstname": "Shri Satish Chandra",
+		"party": "Bharatiya Janata Party",
+		"city": "Valmiki Nagar",
+		"state": "Bihar",
+		"lat": "27.4047021",
+		"long": "83.9003022"
+	},
+	{
+		"lastname": "Dwivedi",
+		"firstname": "Shri Harish",
+		"party": "Bharatiya Janata Party",
+		"city": "Basti",
+		"state": "Uttar Pradesh",
+		"lat": "26.8176796",
+		"long": "82.7633133"
+	},
+	{
+		"lastname": "Engti",
+		"firstname": "Shri Biren Singh",
+		"party": "Indian National Congress",
+		"city": "Autonomous District",
+		"state": "Assam",
+		"lat": "#VALUE!",
+		"long": "#VALUE!"
+	},
+	{
+		"lastname": "Ering",
+		"firstname": "Shri Ninong",
+		"party": "Indian National Congress",
+		"city": "Arunachal East",
+		"state": "Arunachal Pradesh",
+		"lat": "#VALUE!",
+		"long": "#VALUE!"
+	},
+	{
+		"lastname": "Fatepara",
+		"firstname": "Shri Devajibhai Govindbhai",
+		"party": "Bharatiya Janata Party",
+		"city": "Surendranagar",
+		"state": "Gujarat",
+		"lat": "22.7738938",
+		"long": "71.6673352"
+	},
+	{
+		"lastname": "Gaddigoudar",
+		"firstname": "Shri Parvatagouda Chandanagouda",
+		"party": "Bharatiya Janata Party",
+		"city": "Bagalkot",
+		"state": "Karnataka",
+		"lat": "16.1725355",
+		"long": "75.6557206"
+	},
+	{
+		"lastname": "Gadkari",
+		"firstname": "Shri Nitin Jairam",
+		"party": "Bharatiya Janata Party",
+		"city": "Nagpur",
+		"state": "Maharashtra",
+		"lat": "21.1458004",
+		"long": "79.0881546"
+	},
+	{
+		"lastname": "Gaikwad",
+		"firstname": "Prof. Ravindra Vishwanath",
+		"party": "Shiv Sena",
+		"city": "Osmanabad",
+		"state": "Maharashtra",
+		"lat": "18.2069636",
+		"long": "76.1783739"
+	},
+	{
+		"lastname": "Gaikwad",
+		"firstname": "Dr. Sunil Baliram",
+		"party": "Bharatiya Janata Party",
+		"city": "Latur",
+		"state": "Maharashtra",
+		"lat": "18.4087934",
+		"long": "76.5603828"
+	},
+	{
+		"lastname": "Galla",
+		"firstname": "Shri Jayadev",
+		"party": "Telugu Desam Party",
+		"city": "Guntur",
+		"state": "Andhra Pradesh",
+		"lat": "16.3066525",
+		"long": "80.4365402"
+	},
+	{
+		"lastname": "Gandhi",
+		"firstname": "Dr. Dharam Vira",
+		"party": "Aam Aadmi Party",
+		"city": "Patiala",
+		"state": "Punjab",
+		"lat": "30.3397809",
+		"long": "76.3868797"
+	},
+	{
+		"lastname": "Gandhi",
+		"firstname": "Shri Dilip Kumar Mansukhlal",
+		"party": "Bharatiya Janata Party",
+		"city": "Ahmednagar",
+		"state": "Maharashtra",
+		"lat": "19.0952075",
+		"long": "74.7495916"
+	},
+	{
+		"lastname": "Gandhi",
+		"firstname": "Shri Feroze Varun",
+		"party": "Bharatiya Janata Party",
+		"city": "Sultanpur",
+		"state": "Uttar Pradesh",
+		"lat": "26.2647757",
+		"long": "82.0727061"
+	},
+	{
+		"lastname": "Gandhi",
+		"firstname": "Smt. Maneka Sanjay",
+		"party": "Bharatiya Janata Party",
+		"city": "Pilibhit",
+		"state": "Uttar Pradesh",
+		"lat": "28.6207939",
+		"long": "79.8128649"
+	},
+	{
+		"lastname": "Gandhi",
+		"firstname": "Shri Rahul",
+		"party": "Indian National Congress",
+		"city": "Amethi",
+		"state": "Uttar Pradesh",
+		"lat": "26.1540538",
+		"long": "81.814238"
+	},
+	{
+		"lastname": "Gandhi",
+		"firstname": "Smt. Sonia",
+		"party": "Indian National Congress",
+		"city": "Rae Bareli",
+		"state": "Uttar Pradesh",
+		"lat": "26.2345298",
+		"long": "81.2408689"
+	},
+	{
+		"lastname": "Gangwar",
+		"firstname": "Shri Santosh Kumar",
+		"party": "Bharatiya Janata Party",
+		"city": "Bareilly",
+		"state": "Uttar Pradesh",
+		"lat": "28.3670355",
+		"long": "79.4304381"
+	},
+	{
+		"lastname": "Gautam",
+		"firstname": "Shri Satish Kumar",
+		"party": "Bharatiya Janata Party",
+		"city": "Aligarh",
+		"state": "Uttar Pradesh",
+		"lat": "27.8973944",
+		"long": "78.0880129"
+	},
+	{
+		"lastname": "Gavit",
+		"firstname": "Dr. Heena Vijaykumar",
+		"party": "Bharatiya Janata Party",
+		"city": "Nandurbar",
+		"state": "Maharashtra",
+		"lat": "21.3700906",
+		"long": "74.240336"
+	},
+	{
+		"lastname": "Gavit",
+		"firstname": "Shri Rajendra Dhedya",
+		"party": "Bharatiya Janata Party",
+		"city": "Palghar",
+		"state": "Maharashtra",
+		"lat": "19.6935581",
+		"long": "72.7655184"
+	},
+	{
+		"lastname": "Geete",
+		"firstname": "Shri Anant Gangaram",
+		"party": "Shiv Sena",
+		"city": "Raigad",
+		"state": "Maharashtra",
+		"lat": "18.5157519",
+		"long": "73.1821623"
+	},
+	{
+		"lastname": "General (Dr.) ",
+		"firstname": " Vijay Kumar Singh (Retd.)",
+		"party": "Bharatiya Janata Party",
+		"city": "Ghaziabad",
+		"state": "Uttar Pradesh",
+		"lat": "28.6691565",
+		"long": "77.4537578"
+	},
+	{
+		"lastname": "George",
+		"firstname": "Shri (Adv.) Joice",
+		"party": "Independents",
+		"city": "Idukki",
+		"state": "Kerala",
+		"lat": "9.9188973",
+		"long": "77.1024902"
+	},
+	{
+		"lastname": "Ghosh",
+		"firstname": "Ms. Arpita",
+		"party": "All India Trinamool Congress",
+		"city": "Balurghat",
+		"state": "West Bengal",
+		"lat": "25.2372834",
+		"long": "88.7830612"
+	},
+	{
+		"lastname": "Ghubaya",
+		"firstname": "Shri Sher Singh",
+		"party": "Shiromani Akali Dal",
+		"city": "Ferozpur",
+		"state": "Punjab",
+		"lat": "30.9331348",
+		"long": "74.6224755"
+	},
+	{
+		"lastname": "Giluwa",
+		"firstname": "Shri Laxman",
+		"party": "Bharatiya Janata Party",
+		"city": "Singhbhum",
+		"state": "Jharkhand",
+		"lat": "22.3650858",
+		"long": "85.4375574"
+	},
+	{
+		"lastname": "Girri",
+		"firstname": "Shri Maheish",
+		"party": "Bharatiya Janata Party",
+		"city": "East Delhi",
+		"state": "NCT of Delhi",
+		"lat": "28.6279559",
+		"long": "77.2956273"
+	},
+	{
+		"lastname": "Godam",
+		"firstname": "Shri Nagesh",
+		"party": "Telangana Rashtra Samithi",
+		"city": "Adilabad",
+		"state": "Telangana",
+		"lat": "19.0809075",
+		"long": "79.560344"
+	},
+	{
+		"lastname": "Godse",
+		"firstname": "Shri Hemant Tukaram",
+		"party": "Shiv Sena",
+		"city": "Nashik",
+		"state": "Maharashtra",
+		"lat": "19.9974533",
+		"long": "73.7898023"
+	},
+	{
+		"lastname": "Gogoi",
+		"firstname": "Shri Gaurav",
+		"party": "Indian National Congress",
+		"city": "Kaliabor",
+		"state": "Assam",
+		"lat": "26.534442",
+		"long": "93.092296"
+	},
+	{
+		"lastname": "Gohain",
+		"firstname": "Shri Rajen",
+		"party": "Bharatiya Janata Party",
+		"city": "Nawgong",
+		"state": "Assam",
+		"lat": "25.0622533",
+		"long": "79.4396622"
+	},
+	{
+		"lastname": "Gopal",
+		"firstname": "Dr. K.",
+		"party": "All India Anna Dravida Munnetra Kazhagam",
+		"city": "Nagapattinam",
+		"state": "Tamil Nadu",
+		"lat": "10.7656082",
+		"long": "79.8423888"
+	},
+	{
+		"lastname": "Gopalakrishnan",
+		"firstname": "Shri R.",
+		"party": "All India Anna Dravida Munnetra Kazhagam",
+		"city": "Madurai",
+		"state": "Tamil Nadu",
+		"lat": "9.9252007",
+		"long": "78.1197754"
+	},
+	{
+		"lastname": "Goud",
+		"firstname": "Dr. Boora Narsaiah",
+		"party": "Telangana Rashtra Samithi",
+		"city": "Bhongir",
+		"state": "Telangana",
+		"lat": "17.5035389",
+		"long": "78.8892146"
+	},
+	{
+		"lastname": "Gowda",
+		"firstname": "Shri D.V. Sadananda",
+		"party": "Bharatiya Janata Party",
+		"city": "Bangalore North",
+		"state": "Karnataka",
+		"lat": "13.1063823",
+		"long": "78.4553013"
+	},
+	{
+		"lastname": "Gupta",
+		"firstname": "Shri Shyama Charan",
+		"party": "Bharatiya Janata Party",
+		"city": "Allahabad",
+		"state": "Uttar Pradesh",
+		"lat": "25.4358011",
+		"long": "81.846311"
+	},
+	{
+		"lastname": "Gupta",
+		"firstname": "Shri Sudheer",
+		"party": "Bharatiya Janata Party",
+		"city": "Mandsour",
+		"state": "Madhya Pradesh",
+		"lat": "24.076836",
+		"long": "75.0692952"
+	},
+	{
+		"lastname": "Gurjar",
+		"firstname": "Shri Krishan Pal",
+		"party": "Bharatiya Janata Party",
+		"city": "Faridabad",
+		"state": "Haryana",
+		"lat": "28.4089123",
+		"long": "77.3177894"
+	},
+	{
+		"lastname": "Gutha",
+		"firstname": "Shri Sukender Reddy",
+		"party": "Indian National Congress",
+		"city": "Nalgonda",
+		"state": "Telangana",
+		"lat": "17.1882998",
+		"long": "79.1999949"
+	},
+	{
+		"lastname": "Hansdah",
+		"firstname": "Shri Rama Chandra",
+		"party": "Biju Janata Dal",
+		"city": "Mayurbhanj",
+		"state": "Odisha",
+		"lat": "22.0086978",
+		"long": "86.4187308"
+	},
+	{
+		"lastname": "Hansdak",
+		"firstname": "Shri Vijay Kumar",
+		"party": "Jharkhand Mukti Morcha",
+		"city": "Rajmahal",
+		"state": "Jharkhand",
+		"lat": "38.8815946",
+		"long": "-94.7871319"
+	},
+	{
+		"lastname": "Hari",
+		"firstname": "Shri G.",
+		"party": "All India Anna Dravida Munnetra Kazhagam",
+		"city": "Arakkonam",
+		"state": "Tamil Nadu",
+		"lat": "13.0752392",
+		"long": "79.6558242"
+	},
+	{
+		"lastname": "Harsh Vardhan ",
+		"firstname": "Dr.",
+		"party": "Bharatiya Janata Party",
+		"city": "Chandni Chowk",
+		"state": "NCT of Delhi",
+		"lat": "28.6505942",
+		"long": "77.2303284"
+	},
+	{
+		"lastname": "Hasan",
+		"firstname": "Begum Tabassum",
+		"party": "Rashtriya Lok Dal",
+		"city": "Kairana",
+		"state": "Uttar Pradesh",
+		"lat": "29.3939892",
+		"long": "77.2002745"
+	},
+	{
+		"lastname": "Hay",
+		"firstname": "Prof. Richard",
+		"party": "Bharatiya Janata Party",
+		"city": "Nominated Anglo-Indian",
+		"state": "Kerala",
+		"lat": "25.627595",
+		"long": "85.1080323"
+	},
+	{
+		"lastname": "Hazra",
+		"firstname": "Dr. Anupam",
+		"party": "All India Trinamool Congress",
+		"city": "Bolpur",
+		"state": "West Bengal",
+		"lat": "23.6686892",
+		"long": "87.6827676"
+	},
+	{
+		"lastname": "Hegde",
+		"firstname": "Shri Anantkumar",
+		"party": "Bharatiya Janata Party",
+		"city": "Uttara Kannada",
+		"state": "Karnataka",
+		"lat": "14.7937065",
+		"long": "74.6868815"
+	},
+	{
+		"lastname": "Hema Malini",
+		"firstname": "Smt.",
+		"party": "Bharatiya Janata Party",
+		"city": "Mathura",
+		"state": "Uttar Pradesh",
+		"lat": "27.4924134",
+		"long": "77.673673"
+	},
+	{
+		"lastname": "Hikaka",
+		"firstname": "Shri Jhina",
+		"party": "Biju Janata Dal",
+		"city": "Koraput",
+		"state": "Odisha",
+		"lat": "18.8560564",
+		"long": "82.7347142"
+	},
+	{
+		"lastname": "Hooda",
+		"firstname": "Shri Deepender Singh",
+		"party": "Indian National Congress",
+		"city": "Rohtak",
+		"state": "Haryana",
+		"lat": "28.8955152",
+		"long": "76.606611"
+	},
+	{
+		"lastname": "Hukkeri",
+		"firstname": "Shri Prakash Babanna",
+		"party": "Indian National Congress",
+		"city": "Chikkodi",
+		"state": "Karnataka",
+		"lat": "16.4291905",
+		"long": "74.5878546"
+	},
+	{
+		"lastname": "Innocent",
+		"firstname": "Shri",
+		"party": "Independents",
+		"city": "Chalakudy",
+		"state": "Kerala",
+		"lat": "10.3080272",
+		"long": "76.3336779"
+	},
+	{
+		"lastname": "Jadhav",
+		"firstname": "Shri Prataprao",
+		"party": "Shiv Sena",
+		"city": "Buldhana",
+		"state": "Maharashtra",
+		"lat": "20.4560976",
+		"long": "76.3637285"
+	},
+	{
+		"lastname": "Jadhav",
+		"firstname": "Shri Sanjay Haribhau",
+		"party": "Shiv Sena",
+		"city": "Parbhani",
+		"state": "Maharashtra",
+		"lat": "19.2609958",
+		"long": "76.776665"
+	},
+	{
+		"lastname": "Jaiswal",
+		"firstname": "Dr. Sanjay",
+		"party": "Bharatiya Janata Party",
+		"city": "Paschim Champaran",
+		"state": "Bihar",
+		"lat": "27.1543104",
+		"long": "84.3542049"
+	},
+	{
+		"lastname": "Jakhar",
+		"firstname": "Shri Sunil Kumar",
+		"party": "Indian National Congress",
+		"city": "Gurdaspur",
+		"state": "Punjab",
+		"lat": "32.0419424",
+		"long": "75.4053367"
+	},
+	{
+		"lastname": "Jardosh",
+		"firstname": "Smt. Darshana Vikram",
+		"party": "Bharatiya Janata Party",
+		"city": "Surat",
+		"state": "Gujarat",
+		"lat": "21.1702401",
+		"long": "72.8310607"
+	},
+	{
+		"lastname": "Jatua",
+		"firstname": "Shri Choudhury Mohan",
+		"party": "All India Trinamool Congress",
+		"city": "Mathurapur",
+		"state": "West Bengal",
+		"lat": "22.1202674",
+		"long": "88.3943282"
+	},
+	{
+		"lastname": "Jaunapuria",
+		"firstname": "Shri Sukhbir Singh",
+		"party": "Bharatiya Janata Party",
+		"city": "Tonk-Sawai Madhopur",
+		"state": "Rajasthan",
+		"lat": "26.01177",
+		"long": "76.346596"
+	},
+	{
+		"lastname": "Jayadevan",
+		"firstname": "Shri C. N.",
+		"party": "Communist Party of India",
+		"city": "Thrissur",
+		"state": "Kerala",
+		"lat": "10.5276416",
+		"long": "76.2144349"
+	},
+	{
+		"lastname": "Jayavardhan",
+		"firstname": "Dr. Jayakumar",
+		"party": "All India Anna Dravida Munnetra Kazhagam",
+		"city": "Chennai South",
+		"state": "Tamil Nadu",
+		"lat": "13.0826802",
+		"long": "80.2707184"
+	},
+	{
+		"lastname": "Jena",
+		"firstname": "Shri Rabindra Kumar",
+		"party": "Biju Janata Dal",
+		"city": "Balasore",
+		"state": "Odisha",
+		"lat": "21.4869337",
+		"long": "86.9246005"
+	},
+	{
+		"lastname": "Jigajinagi",
+		"firstname": "Shri Ramesh Chandappa",
+		"party": "Bharatiya Janata Party",
+		"city": "Bijapur",
+		"state": "Karnataka",
+		"lat": "16.8301708",
+		"long": "75.710031"
+	},
+	{
+		"lastname": "Joshi",
+		"firstname": "Shri C. P.",
+		"party": "Bharatiya Janata Party",
+		"city": "Chittorgarh",
+		"state": "Rajasthan",
+		"lat": "24.8887435",
+		"long": "74.6269216"
+	},
+	{
+		"lastname": "Joshi",
+		"firstname": "Dr. Murli Manohar",
+		"party": "Bharatiya Janata Party",
+		"city": "Kanpur",
+		"state": "Uttar Pradesh",
+		"lat": "26.449923",
+		"long": "80.3318736"
+	},
+	{
+		"lastname": "Joshi",
+		"firstname": "Shri Pralhad Venkatesh",
+		"party": "Bharatiya Janata Party",
+		"city": "Dharwad",
+		"state": "Karnataka",
+		"lat": "15.4589236",
+		"long": "75.007808"
+	},
+	{
+		"lastname": "Jyoti",
+		"firstname": "Sadhvi Niranjan",
+		"party": "Bharatiya Janata Party",
+		"city": "Fatehpur",
+		"state": "Uttar Pradesh",
+		"lat": "25.8499808",
+		"long": "80.8986502"
+	},
+	{
+		"lastname": "K.",
+		"firstname": "Shri Parasuraman",
+		"party": "All India Anna Dravida Munnetra Kazhagam",
+		"city": "Thanjavur",
+		"state": "Tamil Nadu",
+		"lat": "10.7869994",
+		"long": "79.1378274"
+	},
+	{
+		"lastname": "Kachhadiya",
+		"firstname": "Shri Naranbhai Bhikhabhai",
+		"party": "Bharatiya Janata Party",
+		"city": "Amreli",
+		"state": "Gujarat",
+		"lat": "21.6031774",
+		"long": "71.2220832"
+	},
+	{
+		"lastname": "Kaiser",
+		"firstname": "Choudhary Mehboob Ali",
+		"party": "Lok Jan Shakti Party",
+		"city": "Khagaria",
+		"state": "Bihar",
+		"lat": "25.5111515",
+		"long": "86.476908"
+	},
+	{
+		"lastname": "Kalvakuntla",
+		"firstname": "Smt. Kavitha",
+		"party": "Telangana Rashtra Samithi",
+		"city": "Nizamabad",
+		"state": "Telangana",
+		"lat": "18.6725047",
+		"long": "78.0940867"
+	},
+	{
+		"lastname": "Kamal Nath",
+		"firstname": "Shri",
+		"party": "Indian National Congress",
+		"city": "Chhindwara",
+		"state": "Madhya Pradesh",
+		"lat": "22.057437",
+		"long": "78.9381729"
+	},
+	{
+		"lastname": "Kamaraj",
+		"firstname": "Dr. K.",
+		"party": "All India Anna Dravida Munnetra Kazhagam",
+		"city": "Kallakurichi",
+		"state": "Tamil Nadu",
+		"lat": "11.7387012",
+		"long": "78.9609096"
+	},
+	{
+		"lastname": "Kambhampati",
+		"firstname": "Dr. Hari Babu",
+		"party": "Bharatiya Janata Party",
+		"city": "Visakhapatnam",
+		"state": "Andhra Pradesh",
+		"lat": "17.6868159",
+		"long": "83.2184815"
+	},
+	{
+		"lastname": "Karadi",
+		"firstname": "Shri Sanganna Amarappa",
+		"party": "Bharatiya Janata Party",
+		"city": "Koppal",
+		"state": "Karnataka",
+		"lat": "15.3507081",
+		"long": "76.1554311"
+	},
+	{
+		"lastname": "Karandlaje",
+		"firstname": "Km. Shobha",
+		"party": "Bharatiya Janata Party",
+		"city": "Udupi Chikmagalur",
+		"state": "Karnataka",
+		"lat": "13.3936652",
+		"long": "75.4344727"
+	},
+	{
+		"lastname": "Karunakaran",
+		"firstname": "Shri P.",
+		"party": "Communist Party of India (Marxist)",
+		"city": "Kasaragod",
+		"state": "Kerala",
+		"lat": "12.5102239",
+		"long": "74.9851678"
+	},
+	{
+		"lastname": "Kashyap",
+		"firstname": "Shri Dinesh",
+		"party": "Bharatiya Janata Party",
+		"city": "Bastar",
+		"state": "Chhattisgarh",
+		"lat": "19.1071317",
+		"long": "81.9534815"
+	},
+	{
+		"lastname": "Kashyap",
+		"firstname": "Shri Virender",
+		"party": "Bharatiya Janata Party",
+		"city": "Shimla",
+		"state": "Himachal Pradesh",
+		"lat": "31.1048145",
+		"long": "77.1734033"
+	},
+	{
+		"lastname": "Kaswan",
+		"firstname": "Shri Rahul",
+		"party": "Bharatiya Janata Party",
+		"city": "Churu",
+		"state": "Rajasthan",
+		"lat": "28.2925364",
+		"long": "74.9707262"
+	},
+	{
+		"lastname": "Kataria",
+		"firstname": "Shri Rattan Lal",
+		"party": "Bharatiya Janata Party",
+		"city": "Ambala",
+		"state": "Haryana",
+		"lat": "30.3781788",
+		"long": "76.7766974"
+	},
+	{
+		"lastname": "Kateel",
+		"firstname": "Shri Nalin Kumar",
+		"party": "Bharatiya Janata Party",
+		"city": "Dakshina Kannada",
+		"state": "Karnataka",
+		"lat": "12.8437814",
+		"long": "75.2479061"
+	},
+	{
+		"lastname": "Kaushik",
+		"firstname": "Shri Ramesh Chander",
+		"party": "Bharatiya Janata Party",
+		"city": "Sonipat",
+		"state": "Haryana",
+		"lat": "28.9930823",
+		"long": "77.0150735"
+	},
+	{
+		"lastname": "Kesineni",
+		"firstname": "Shri Srinivas",
+		"party": "Telugu Desam Party",
+		"city": "Vijayawada",
+		"state": "Andhra Pradesh",
+		"lat": "16.5061743",
+		"long": "80.6480153"
+	},
+	{
+		"lastname": "Khadse",
+		"firstname": "Smt. Raksha Nikhil",
+		"party": "Bharatiya Janata Party",
+		"city": "Raver",
+		"state": "Maharashtra",
+		"lat": "39.310636",
+		"long": "-85.336568"
+	},
+	{
+		"lastname": "Khaire",
+		"firstname": "Shri Chandrakant Bhaurao",
+		"party": "Shiv Sena",
+		"city": "Aurangabad",
+		"state": "Maharashtra",
+		"lat": "19.8761653",
+		"long": "75.3433139"
+	},
+	{
+		"lastname": "Khalsa",
+		"firstname": "Shri Harinder Singh",
+		"party": "Aam Aadmi Party",
+		"city": "Fatehgarh Sahib",
+		"state": "Punjab",
+		"lat": "30.6479174",
+		"long": "76.3897733"
+	},
+	{
+		"lastname": "Khan",
+		"firstname": "Shri Md. Badaruddoza",
+		"party": "Communist Party of India (Marxist)",
+		"city": "Murshidabad",
+		"state": "West Bengal",
+		"lat": "24.1759039",
+		"long": "88.2801785"
+	},
+	{
+		"lastname": "Khanduri",
+		"firstname": " Maj Gen Bhuwan Chandra AVSM (Retd.)",
+		"party": "Bharatiya Janata Party",
+		"city": "Garhwal",
+		"state": "Uttarakhand",
+		"lat": "29.8687682",
+		"long": "78.8382644"
+	},
+	{
+		"lastname": "Kharge",
+		"firstname": "Shri Mallikarjun",
+		"party": "Indian National Congress",
+		"city": "Gulbarga",
+		"state": "Karnataka",
+		"lat": "17.329731",
+		"long": "76.8342957"
+	},
+	{
+		"lastname": "Kher",
+		"firstname": "Smt. Kirron Anupam",
+		"party": "Bharatiya Janata Party",
+		"city": "Chandigarh",
+		"state": "Chandigarh",
+		"lat": "30.7333148",
+		"long": "76.7794179"
+	},
+	{
+		"lastname": "Khuba",
+		"firstname": "Shri Bhagwanth",
+		"party": "Bharatiya Janata Party",
+		"city": "Bidar",
+		"state": "Karnataka",
+		"lat": "17.9148799",
+		"long": "77.5046101"
+	},
+	{
+		"lastname": "Kirtikar",
+		"firstname": "Shri Gajanan Chandrakant",
+		"party": "Shiv Sena",
+		"city": "Mumbai-North-West",
+		"state": "Maharashtra",
+		"lat": "19.0759837",
+		"long": "72.8776559"
+	},
+	{
+		"lastname": "Kishore",
+		"firstname": "Shri Kaushal",
+		"party": "Bharatiya Janata Party",
+		"city": "Mohanlalganj",
+		"state": "Uttar Pradesh",
+		"lat": "26.6895221",
+		"long": "80.9843446"
+	},
+	{
+		"lastname": "Kodikunnil",
+		"firstname": "Shri Suresh",
+		"party": "Indian National Congress",
+		"city": "Mavelikkara",
+		"state": "Kerala",
+		"lat": "9.2384874",
+		"long": "76.5314817"
+	},
+	{
+		"lastname": "Koli",
+		"firstname": "Shri Bahadur Singh",
+		"party": "Bharatiya Janata Party",
+		"city": "Bharatpur",
+		"state": "Rajasthan",
+		"lat": "27.216981",
+		"long": "77.489515"
+	},
+	{
+		"lastname": "Koshyari",
+		"firstname": "Shri Bhagat Singh",
+		"party": "Bharatiya Janata Party",
+		"city": "Nainital-Udhamsingh Nagar",
+		"state": "Uttarakhand",
+		"lat": "29.1637034",
+		"long": "79.1510348"
+	},
+	{
+		"lastname": "Kothapalli",
+		"firstname": "Smt. Geetha",
+		"party": "Yuvajana Sramika Rythu Congress Party",
+		"city": "Araku",
+		"state": "Andhra Pradesh",
+		"lat": "18.3273486",
+		"long": "82.8775218"
+	},
+	{
+		"lastname": "Kukde",
+		"firstname": "Shri Madhukarrao Yashwantrao",
+		"party": "Nationalist Congress Party",
+		"city": "Bhandara-Gondiya",
+		"state": "Maharashtra",
+		"lat": "21.459459",
+		"long": "80.196075"
+	},
+	{
+		"lastname": "Kulaste",
+		"firstname": "Shri Faggan Singh",
+		"party": "Bharatiya Janata Party",
+		"city": "Mandla",
+		"state": "Madhya Pradesh",
+		"lat": "22.5979218",
+		"long": "80.3713855"
+	},
+	{
+		"lastname": "Kumar",
+		"firstname": "Dr. Arun",
+		"party": "Rashtriya Lok Samta Party",
+		"city": "Jahanabad",
+		"state": "Bihar",
+		"lat": "25.2139287",
+		"long": "84.9895549"
+	},
+	{
+		"lastname": "Kumar",
+		"firstname": "Shri Dharmendra",
+		"party": "Bharatiya Janata Party",
+		"city": "Aonla",
+		"state": "Uttar Pradesh",
+		"lat": "28.2699017",
+		"long": "79.1604971"
+	},
+	{
+		"lastname": "Kumar",
+		"firstname": "Shri Kaushalendra",
+		"party": "Janata Dal (United)",
+		"city": "Nalanda",
+		"state": "Bihar",
+		"lat": "25.2621826",
+		"long": "85.4788065"
+	},
+	{
+		"lastname": "Kumar",
+		"firstname": "Shri Kunwar Sarvesh",
+		"party": "Bharatiya Janata Party",
+		"city": "Moradabad",
+		"state": "Uttar Pradesh",
+		"lat": "28.8386481",
+		"long": "78.7733286"
+	},
+	{
+		"lastname": "Kumar",
+		"firstname": "Shri P.",
+		"party": "All India Anna Dravida Munnetra Kazhagam",
+		"city": "Tiruchirappalli",
+		"state": "Tamil Nadu",
+		"lat": "10.7904833",
+		"long": "78.7046725"
+	},
+	{
+		"lastname": "Kumar",
+		"firstname": "Shri Santosh",
+		"party": "Janata Dal (United)",
+		"city": "Purnia",
+		"state": "Bihar",
+		"lat": "25.7771391",
+		"long": "87.4752551"
+	},
+	{
+		"lastname": "Kumar",
+		"firstname": "Shri Shailesh (Bulo Mandal)",
+		"party": "Rashtriya Janata Dal",
+		"city": "Bhagalpur",
+		"state": "Bihar",
+		"lat": "25.3478004",
+		"long": "86.9824288"
+	},
+	{
+		"lastname": "Kumar",
+		"firstname": "Shri Shanta",
+		"party": "Bharatiya Janata Party",
+		"city": "Kangra",
+		"state": "Himachal Pradesh",
+		"lat": "32.0668524",
+		"long": "76.3637285"
+	},
+	{
+		"lastname": "Kumar",
+		"firstname": "Dr. Virendra",
+		"party": "Bharatiya Janata Party",
+		"city": "Tikamgarh",
+		"state": "Madhya Pradesh",
+		"lat": "24.7456147",
+		"long": "78.8320779"
+	},
+	{
+		"lastname": "Kundariya",
+		"firstname": "Shri Mohanbhai Kalyanji",
+		"party": "Bharatiya Janata Party",
+		"city": "Rajkot",
+		"state": "Gujarat",
+		"lat": "22.3038945",
+		"long": "70.8021599"
+	},
+	{
+		"lastname": "Kushawaha",
+		"firstname": "Shri Ravindra",
+		"party": "Bharatiya Janata Party",
+		"city": "Salempur",
+		"state": "Uttar Pradesh",
+		"lat": "26.293939",
+		"long": "83.9241376"
+	},
+	{
+		"lastname": "Kushwaha",
+		"firstname": "Shri Upendra",
+		"party": "Rashtriya Lok Samta Party",
+		"city": "Karakat",
+		"state": "Bihar",
+		"lat": "25.1803303",
+		"long": "84.2851541"
+	},
+	{
+		"lastname": "Laguri",
+		"firstname": "Smt. Sakuntala",
+		"party": "Biju Janata Dal",
+		"city": "Keonjhar",
+		"state": "Odisha",
+		"lat": "21.628933",
+		"long": "85.5816847"
+	},
+	{
+		"lastname": "Lakhanpal",
+		"firstname": "Shri Raghav",
+		"party": "Bharatiya Janata Party",
+		"city": "Saharanpur",
+		"state": "Uttar Pradesh",
+		"lat": "29.967079",
+		"long": "77.5510172"
+	},
+	{
+		"lastname": "Lekhi",
+		"firstname": "Smt. Meenakashi",
+		"party": "Bharatiya Janata Party",
+		"city": "New Delhi",
+		"state": "NCT of Delhi",
+		"lat": "28.6139391",
+		"long": "77.2090212"
+	},
+	{
+		"lastname": "Lokhande",
+		"firstname": "Shri Sadashiv Kisan",
+		"party": "Shiv Sena",
+		"city": "Shirdi",
+		"state": "Maharashtra",
+		"lat": "19.7668633",
+		"long": "74.4772614"
+	},
+	{
+		"lastname": "M.",
+		"firstname": "Smt. Vasanthi",
+		"party": "All India Anna Dravida Munnetra Kazhagam",
+		"city": "Tenkasi",
+		"state": "Tamil Nadu",
+		"lat": "8.9590214",
+		"long": "77.3129383"
+	},
+	{
+		"lastname": "Maadam",
+		"firstname": "Smt. Poonamben Hematbhai",
+		"party": "Bharatiya Janata Party",
+		"city": "Jamnagar",
+		"state": "Gujarat",
+		"lat": "22.4707019",
+		"long": "70.05773"
+	},
+	{
+		"lastname": "Maganti",
+		"firstname": "Shri Murali Mohan",
+		"party": "Telugu Desam Party",
+		"city": "Rajahmundry",
+		"state": "Andhra Pradesh",
+		"lat": "17.0005383",
+		"long": "81.8040345"
+	},
+	{
+		"lastname": "Magantti",
+		"firstname": "Shri Venkateswara Rao (Babu)",
+		"party": "Telugu Desam Party",
+		"city": "Eluru",
+		"state": "Andhra Pradesh",
+		"lat": "16.7106604",
+		"long": "81.0952431"
+	},
+	{
+		"lastname": "Mahadik",
+		"firstname": "Shri Dhananjay Bhimrao",
+		"party": "Nationalist Congress Party",
+		"city": "Kolhapur",
+		"state": "Maharashtra",
+		"lat": "16.7049873",
+		"long": "74.2432527"
+	},
+	{
+		"lastname": "Mahajan",
+		"firstname": "Smt. Poonam",
+		"party": "Bharatiya Janata Party",
+		"city": "Mumbai-North-Central",
+		"state": "Maharashtra",
+		"lat": "19.0759837",
+		"long": "72.8776559"
+	},
+	{
+		"lastname": "Mahato",
+		"firstname": "Shri Bidyut Baran",
+		"party": "Bharatiya Janata Party",
+		"city": "Jamshedpur",
+		"state": "Jharkhand",
+		"lat": "22.8045665",
+		"long": "86.2028754"
+	},
+	{
+		"lastname": "Mahato",
+		"firstname": "Dr. Mriganka",
+		"party": "All India Trinamool Congress",
+		"city": "Purulia",
+		"state": "West Bengal",
+		"lat": "23.3320779",
+		"long": "86.365208"
+	},
+	{
+		"lastname": "Mahendran",
+		"firstname": "Shri C.",
+		"party": "All India Anna Dravida Munnetra Kazhagam",
+		"city": "Pollachi",
+		"state": "Tamil Nadu",
+		"lat": "10.6572737",
+		"long": "77.0106693"
+	},
+	{
+		"lastname": "Mahtab",
+		"firstname": "Shri Bhartruhari",
+		"party": "Biju Janata Dal",
+		"city": "Cuttack",
+		"state": "Odisha",
+		"lat": "20.462521",
+		"long": "85.8829895"
+	},
+	{
+		"lastname": "Mahto",
+		"firstname": "Dr. Banshilal",
+		"party": "Bharatiya Janata Party",
+		"city": "Korba",
+		"state": "Chhattisgarh",
+		"lat": "22.3594501",
+		"long": "82.7500595"
+	},
+	{
+		"lastname": "Majhi",
+		"firstname": "Shri Balabhadra",
+		"party": "Biju Janata Dal",
+		"city": "Nabarangpur",
+		"state": "Odisha",
+		"lat": "19.5001322",
+		"long": "82.3017728"
+	},
+	{
+		"lastname": "Malviya",
+		"firstname": "Prof. Chintamani",
+		"party": "Bharatiya Janata Party",
+		"city": "Ujjain",
+		"state": "Madhya Pradesh",
+		"lat": "23.1793013",
+		"long": "75.7849097"
+	},
+	{
+		"lastname": "Malyadri",
+		"firstname": "Shri Sriram",
+		"party": "Telugu Desam Party",
+		"city": "Bapatla",
+		"state": "Andhra Pradesh",
+		"lat": "15.9039445",
+		"long": "80.4671375"
+	},
+	{
+		"lastname": "Mandal",
+		"firstname": "Dr. Tapas",
+		"party": "All India Trinamool Congress",
+		"city": "Ranaghat",
+		"state": "West Bengal",
+		"lat": "23.17405",
+		"long": "88.5639352"
+	},
+	{
+		"lastname": "Manjhi",
+		"firstname": "Shri Hari",
+		"party": "Bharatiya Janata Party",
+		"city": "Gaya",
+		"state": "Bihar",
+		"lat": "24.7913957",
+		"long": "85.0002336"
+	},
+	{
+		"lastname": "Mann",
+		"firstname": "Shri Bhagwant",
+		"party": "Aam Aadmi Party",
+		"city": "Sangrur",
+		"state": "Punjab",
+		"lat": "30.2457963",
+		"long": "75.8420716"
+	},
+	{
+		"lastname": "Marabi",
+		"firstname": "Shri Kamalbhan Singh",
+		"party": "Bharatiya Janata Party",
+		"city": "Surguja",
+		"state": "Chhattisgarh",
+		"lat": "22.9494079",
+		"long": "83.1649001"
+	},
+	{
+		"lastname": "Maragatham",
+		"firstname": "Smt. K.",
+		"party": "All India Anna Dravida Munnetra Kazhagam",
+		"city": "Kancheepuram",
+		"state": "Tamil Nadu",
+		"lat": "12.8341735",
+		"long": "79.7036402"
+	},
+	{
+		"lastname": "Marutharajaa",
+		"firstname": "Shri R.P.",
+		"party": "All India Anna Dravida Munnetra Kazhagam",
+		"city": "Perambalur",
+		"state": "Tamil Nadu",
+		"lat": "11.2409839",
+		"long": "78.8665733"
+	},
+	{
+		"lastname": "Meena",
+		"firstname": "Shri Arjunlal",
+		"party": "Bharatiya Janata Party",
+		"city": "Udaipur",
+		"state": "Rajasthan",
+		"lat": "24.585445",
+		"long": "73.712479"
+	},
+	{
+		"lastname": "Meghwal",
+		"firstname": "Shri Arjun Ram",
+		"party": "Bharatiya Janata Party",
+		"city": "Bikaner",
+		"state": "Rajasthan",
+		"lat": "28.0229348",
+		"long": "73.3119159"
+	},
+	{
+		"lastname": "Meinya",
+		"firstname": "Dr. Thokchom",
+		"party": "Indian National Congress",
+		"city": "Inner Manipur",
+		"state": "Manipur",
+		"lat": "24.7121881",
+		"long": "93.8655303"
+	},
+	{
+		"lastname": "Mishra",
+		"firstname": "Shri Anoop",
+		"party": "Bharatiya Janata Party",
+		"city": "Morena",
+		"state": "Madhya Pradesh",
+		"lat": "32.767107",
+		"long": "-117.1941153"
+	},
+	{
+		"lastname": "Mishra",
+		"firstname": "Shri Bhairon Prasad",
+		"party": "Bharatiya Janata Party",
+		"city": "Banda",
+		"state": "Uttar Pradesh",
+		"lat": "33.9377353",
+		"long": "-118.1294119"
+	},
+	{
+		"lastname": "Mishra",
+		"firstname": "Shri Daddan",
+		"party": "Bharatiya Janata Party",
+		"city": "Shrawasti",
+		"state": "Uttar Pradesh",
+		"lat": "27.5977504",
+		"long": "81.9534815"
+	},
+	{
+		"lastname": "Mishra",
+		"firstname": "Shri Janardan",
+		"party": "Bharatiya Janata Party",
+		"city": "Rewa",
+		"state": "Madhya Pradesh",
+		"lat": "34.800053",
+		"long": "-82.3652161"
+	},
+	{
+		"lastname": "Mishra",
+		"firstname": "Shri Kalraj",
+		"party": "Bharatiya Janata Party",
+		"city": "Deoria",
+		"state": "Uttar Pradesh",
+		"lat": "26.5024286",
+		"long": "83.7791283"
+	},
+	{
+		"lastname": "Misra",
+		"firstname": "Shri Ajay (Teni)",
+		"party": "Bharatiya Janata Party",
+		"city": "Kheri",
+		"state": "Uttar Pradesh",
+		"lat": "28.16514",
+		"long": "80.6326916"
+	},
+	{
+		"lastname": "Misra",
+		"firstname": "Shri Pinaki",
+		"party": "Biju Janata Dal",
+		"city": "Puri",
+		"state": "Odisha",
+		"lat": "19.8133822",
+		"long": "85.8314655"
+	},
+	{
+		"lastname": "Modi",
+		"firstname": "Shri Narendra",
+		"party": "Bharatiya Janata Party",
+		"city": "Varanasi",
+		"state": "Uttar Pradesh",
+		"lat": "25.3176452",
+		"long": "82.9739144"
+	},
+	{
+		"lastname": "Mohammed",
+		"firstname": "Shri Faizal P.P.",
+		"party": "Nationalist Congress Party",
+		"city": "Lakshadweep",
+		"state": "Lakshadweep",
+		"lat": "10.3280265",
+		"long": "72.7846336"
+	},
+	{
+		"lastname": "Mohan",
+		"firstname": "Shri P. C.",
+		"party": "Bharatiya Janata Party",
+		"city": "Bangalore Central",
+		"state": "Karnataka",
+		"lat": "12.9715987",
+		"long": "77.5945627"
+	},
+	{
+		"lastname": "Mohapatra",
+		"firstname": "Shri Sidhant",
+		"party": "Biju Janata Dal",
+		"city": "Berhampur",
+		"state": "Odisha",
+		"lat": "19.3149618",
+		"long": "84.7940911"
+	},
+	{
+		"lastname": "Moily",
+		"firstname": "Dr. M. Veerappa",
+		"party": "Indian National Congress",
+		"city": "Chikkballapur",
+		"state": "Karnataka",
+		"lat": "13.432366",
+		"long": "77.7280396"
+	},
+	{
+		"lastname": "Mondal",
+		"firstname": "Smt. Pratima",
+		"party": "All India Trinamool Congress",
+		"city": "Jaynagar",
+		"state": "West Bengal",
+		"lat": "26.5883988",
+		"long": "86.1370148"
+	},
+	{
+		"lastname": "Mondal",
+		"firstname": "Shri Sunil Kumar",
+		"party": "All India Trinamool Congress",
+		"city": "Bardhaman Purba",
+		"state": "West Bengal",
+		"lat": "23.2390023",
+		"long": "87.8694597"
+	},
+	{
+		"lastname": "Muddahanumegowda",
+		"firstname": "Shri S.P.",
+		"party": "Indian National Congress",
+		"city": "Tumkur",
+		"state": "Karnataka",
+		"lat": "13.3391677",
+		"long": "77.1139984"
+	},
+	{
+		"lastname": "Mukherjee",
+		"firstname": "Dr. Abhijit",
+		"party": "Indian National Congress",
+		"city": "Jangipur",
+		"state": "West Bengal",
+		"lat": "24.4589833",
+		"long": "88.1047287"
+	},
+	{
+		"lastname": "Mullappally",
+		"firstname": "Shri Ramachandran",
+		"party": "Indian National Congress",
+		"city": "Vadakara",
+		"state": "Kerala",
+		"lat": "11.608495",
+		"long": "75.5917092"
+	},
+	{
+		"lastname": "Munda",
+		"firstname": "Shri Kariya",
+		"party": "Bharatiya Janata Party",
+		"city": "Khunti",
+		"state": "Jharkhand",
+		"lat": "23.0797595",
+		"long": "85.2774207"
+	},
+	{
+		"lastname": "Munde",
+		"firstname": "Dr. Pritam Gopinath",
+		"party": "Bharatiya Janata Party",
+		"city": "Beed",
+		"state": "Maharashtra",
+		"lat": "18.9890893",
+		"long": "75.7600785"
+	},
+	{
+		"lastname": "Muniyappa",
+		"firstname": "Dr. K.H.",
+		"party": "Indian National Congress",
+		"city": "Kolar",
+		"state": "Karnataka",
+		"lat": "46.8213809",
+		"long": "-92.182098"
+	},
+	{
+		"lastname": "Nagar",
+		"firstname": "Shri Rodmal",
+		"party": "Bharatiya Janata Party",
+		"city": "Rajgarh",
+		"state": "Madhya Pradesh",
+		"lat": "23.8508581",
+		"long": "76.7336521"
+	},
+	{
+		"lastname": "Naik",
+		"firstname": "Dr. (Prof.) Azmeera Seetaram",
+		"party": "Telangana Rashtra Samithi",
+		"city": "Mahabubabad",
+		"state": "Telangana",
+		"lat": "#VALUE!",
+		"long": "#VALUE!"
+	},
+	{
+		"lastname": "Naik",
+		"firstname": "Shri B.V.",
+		"party": "Indian National Congress",
+		"city": "Raichur",
+		"state": "Karnataka",
+		"lat": "16.2120031",
+		"long": "77.3439283"
+	},
+	{
+		"lastname": "Naik",
+		"firstname": "Shri Shripad Yesso",
+		"party": "Bharatiya Janata Party",
+		"city": "North Goa",
+		"state": "Goa",
+		"lat": "15.5163112",
+		"long": "73.9830029"
+	},
+	{
+		"lastname": "Natterjee",
+		"firstname": "Advocate Jayasingh Thiyagaraj",
+		"party": "All India Anna Dravida Munnetra Kazhagam",
+		"city": "Thoothukkudi",
+		"state": "Tamil Nadu",
+		"lat": "8.7641661",
+		"long": "78.1348361"
+	},
+	{
+		"lastname": "Nete",
+		"firstname": "Shri Ashok Mahadeorao",
+		"party": "Bharatiya Janata Party",
+		"city": "Gadchiroli-Chimur",
+		"state": "Maharashtra",
+		"lat": "19.4968732",
+		"long": "80.2767327"
+	},
+	{
+		"lastname": "Nimmala",
+		"firstname": "Shri Kristappa",
+		"party": "Telugu Desam Party",
+		"city": "Hindupur",
+		"state": "Andhra Pradesh",
+		"lat": "13.8185378",
+		"long": "77.4988753"
+	},
+	{
+		"lastname": "Ninama",
+		"firstname": "Shri Manshankar",
+		"party": "Bharatiya Janata Party",
+		"city": "Banswara",
+		"state": "Rajasthan",
+		"lat": "23.5461394",
+		"long": "74.4349761"
+	},
+	{
+		"lastname": "Nishad",
+		"firstname": "Shri Ajay",
+		"party": "Bharatiya Janata Party",
+		"city": "Muzaffarpur",
+		"state": "Bihar",
+		"lat": "26.1208876",
+		"long": "85.3647201"
+	},
+	{
+		"lastname": "Nishad",
+		"firstname": "Shri Praveen Kumar",
+		"party": "Samajwadi Party",
+		"city": "Gorakhpur",
+		"state": "Uttar Pradesh",
+		"lat": "29.4438165",
+		"long": "75.6702647"
+	},
+	{
+		"lastname": "Nishank",
+		"firstname": "Dr. Ramesh Pokhriyal",
+		"party": "Bharatiya Janata Party",
+		"city": "Hardwar",
+		"state": "Uttarakhand",
+		"lat": "29.9456906",
+		"long": "78.1642478"
+	},
+	{
+		"lastname": "Noor",
+		"firstname": "Smt. Mausam",
+		"party": "Indian National Congress",
+		"city": "Maldaha Uttar",
+		"state": "West Bengal",
+		"lat": "27.4554577",
+		"long": "82.7050369"
+	},
+	{
+		"lastname": "Oram",
+		"firstname": "Shri Jual",
+		"party": "Bharatiya Janata Party",
+		"city": "Sundargarh",
+		"state": "Odisha",
+		"lat": "22.1240025",
+		"long": "84.043175"
+	},
+	{
+		"lastname": "Owaisi",
+		"firstname": "Shri Asaduddin",
+		"party": "All India Majlis-E-Ittehadul Muslimeen",
+		"city": "Hyderabad",
+		"state": "Telangana",
+		"lat": "17.385044",
+		"long": "78.486671"
+	},
+	{
+		"lastname": "P.",
+		"firstname": "Shri Nagarajan",
+		"party": "All India Anna Dravida Munnetra Kazhagam",
+		"city": "Coimbatore",
+		"state": "Tamil Nadu",
+		"lat": "11.0168445",
+		"long": "76.9558321"
+	},
+	{
+		"lastname": "P.K.",
+		"firstname": "Shri Kunhalikutty",
+		"party": "Indian Union Muslim League",
+		"city": "Malappuram",
+		"state": "Kerala",
+		"lat": "11.0509762",
+		"long": "76.0710967"
+	},
+	{
+		"lastname": "Pal ",
+		"firstname": "Shri Jagdambika",
+		"party": "Bharatiya Janata Party",
+		"city": "Domariyaganj",
+		"state": "Uttar Pradesh",
+		"lat": "27.20781",
+		"long": "82.6525739"
+	},
+	{
+		"lastname": "Pala",
+		"firstname": "Shri Vincent H",
+		"party": "Indian National Congress",
+		"city": "Shillong",
+		"state": "Meghalaya",
+		"lat": "25.5787726",
+		"long": "91.8932535"
+	},
+	{
+		"lastname": "Pandey",
+		"firstname": "Shri Hari Om",
+		"party": "Bharatiya Janata Party",
+		"city": "Ambedkar Nagar",
+		"state": "Uttar Pradesh",
+		"lat": "26.4683952",
+		"long": "82.6915429"
+	},
+	{
+		"lastname": "Pandey",
+		"firstname": "Dr. Mahendra Nath",
+		"party": "Bharatiya Janata Party",
+		"city": "Chandauli",
+		"state": "Uttar Pradesh",
+		"lat": "25.2604696",
+		"long": "83.264538"
+	},
+	{
+		"lastname": "Pandey",
+		"firstname": "Shri Rajesh",
+		"party": "Bharatiya Janata Party",
+		"city": "Kushi Nagar",
+		"state": "Uttar Pradesh",
+		"lat": "26.7398787",
+		"long": "83.8869698"
+	},
+	{
+		"lastname": "Pandey",
+		"firstname": "Shri Ravindra Kumar",
+		"party": "Bharatiya Janata Party",
+		"city": "Giridih",
+		"state": "Jharkhand",
+		"lat": "24.19135",
+		"long": "86.2996368"
+	},
+	{
+		"lastname": "Pandula",
+		"firstname": "Dr. Ravindra Babu",
+		"party": "Telugu Desam Party",
+		"city": "Amalapuram",
+		"state": "Andhra Pradesh",
+		"lat": "16.5720904",
+		"long": "82.0008548"
+	},
+	{
+		"lastname": "Parthipan",
+		"firstname": "Shri R.",
+		"party": "All India Anna Dravida Munnetra Kazhagam",
+		"city": "Theni",
+		"state": "Tamil Nadu",
+		"lat": "10.0103658",
+		"long": "77.4768115"
+	},
+	{
+		"lastname": "Pasunoori",
+		"firstname": "Shri Dayakar",
+		"party": "Telangana Rashtra Samithi",
+		"city": "Warangal",
+		"state": "Telangana",
+		"lat": "17.9689008",
+		"long": "79.5940544"
+	},
+	{
+		"lastname": "Paswan",
+		"firstname": "Shri Chhedi",
+		"party": "Bharatiya Janata Party",
+		"city": "Sasaram",
+		"state": "Bihar",
+		"lat": "24.949036",
+		"long": "84.0314295"
+	},
+	{
+		"lastname": "Paswan",
+		"firstname": "Shri Chirag",
+		"party": "Lok Jan Shakti Party",
+		"city": "Jamui",
+		"state": "Bihar",
+		"lat": "24.764688",
+		"long": "86.3376761"
+	},
+	{
+		"lastname": "Paswan",
+		"firstname": "Shri Kamlesh",
+		"party": "Bharatiya Janata Party",
+		"city": "Bansgaon",
+		"state": "Uttar Pradesh",
+		"lat": "26.5490299",
+		"long": "83.346786"
+	},
+	{
+		"lastname": "Paswan",
+		"firstname": "Shri Ram Vilas",
+		"party": "Lok Jan Shakti Party",
+		"city": "Hajipur",
+		"state": "Bihar",
+		"lat": "25.6858392",
+		"long": "85.2145907"
+	},
+	{
+		"lastname": "Paswan",
+		"firstname": "Shri Ramchandra",
+		"party": "Lok Jan Shakti Party",
+		"city": "Samastipur",
+		"state": "Bihar",
+		"lat": "25.8629679",
+		"long": "85.7810263"
+	},
+	{
+		"lastname": "Patasani",
+		"firstname": "Dr. (Prof.) Prasanna Kumar",
+		"party": "Biju Janata Dal",
+		"city": "Bhubaneswar",
+		"state": "Odisha",
+		"lat": "20.2960587",
+		"long": "85.8245398"
+	},
+	{
+		"lastname": "Patel",
+		"firstname": "Smt. Anupriya",
+		"party": "Apna Dal",
+		"city": "Mirzapur",
+		"state": "Uttar Pradesh",
+		"lat": "25.1336987",
+		"long": "82.5644344"
+	},
+	{
+		"lastname": "Patel",
+		"firstname": "Shri Devji Mansingram",
+		"party": "Bharatiya Janata Party",
+		"city": "Jalore",
+		"state": "Rajasthan",
+		"lat": "25.1256823",
+		"long": "72.1416132"
+	},
+	{
+		"lastname": "Patel",
+		"firstname": "Shri Dilip M.",
+		"party": "Bharatiya Janata Party",
+		"city": "Anand",
+		"state": "Gujarat",
+		"lat": "#VALUE!",
+		"long": "#VALUE!"
+	},
+	{
+		"lastname": "Patel",
+		"firstname": "Smt. Jayshreeben",
+		"party": "Bharatiya Janata Party",
+		"city": "Mehsana",
+		"state": "Gujarat",
+		"lat": "23.5879607",
+		"long": "72.3693252"
+	},
+	{
+		"lastname": "Patel",
+		"firstname": "Dr. K. C.",
+		"party": "Bharatiya Janata Party",
+		"city": "Valsad",
+		"state": "Gujarat",
+		"lat": "20.5992349",
+		"long": "72.9342451"
+	},
+	{
+		"lastname": "Patel",
+		"firstname": "Shri Lalubhai Babubhai",
+		"party": "Bharatiya Janata Party",
+		"city": "Daman and Diu",
+		"state": "Daman and Diu",
+		"lat": "20.428283",
+		"long": "72.8397317"
+	},
+	{
+		"lastname": "Patel",
+		"firstname": "Shri Nagendra Pratap Singh",
+		"party": "Samajwadi Party",
+		"city": "Phulpur",
+		"state": "Uttar Pradesh",
+		"lat": "25.5510396",
+		"long": "82.088374"
+	},
+	{
+		"lastname": "Patel",
+		"firstname": "Shri Natubhai Gomanbhai",
+		"party": "Bharatiya Janata Party",
+		"city": "Dadra and Nagar Haveli",
+		"state": "Dadra and Nagar Haveli",
+		"lat": "20.1808672",
+		"long": "73.0169135"
+	},
+	{
+		"lastname": "Patel",
+		"firstname": "Shri Prahlad Singh",
+		"party": "Bharatiya Janata Party",
+		"city": "Damoh",
+		"state": "Madhya Pradesh",
+		"lat": "23.8380986",
+		"long": "79.4421731"
+	},
+	{
+		"lastname": "Patel",
+		"firstname": "Shri Subhash",
+		"party": "Bharatiya Janata Party",
+		"city": "Khargone",
+		"state": "Madhya Pradesh",
+		"lat": "21.8335244",
+		"long": "75.6149893"
+	},
+	{
+		"lastname": "Pathak",
+		"firstname": "Smt. Riti",
+		"party": "Bharatiya Janata Party",
+		"city": "Sidhi",
+		"state": "Madhya Pradesh",
+		"lat": "24.3956038",
+		"long": "81.8825279"
+	},
+	{
+		"lastname": "Patil",
+		"firstname": "Shri A.T. (Nana)",
+		"party": "Bharatiya Janata Party",
+		"city": "Jalgaon",
+		"state": "Maharashtra",
+		"lat": "21.0076578",
+		"long": "75.5626039"
+	},
+	{
+		"lastname": "Patil",
+		"firstname": "Shri Bheemrao Baswanthrao",
+		"party": "Telangana Rashtra Samithi",
+		"city": "Zahirabad",
+		"state": "Telangana",
+		"lat": "17.6748113",
+		"long": "77.6163803"
+	},
+	{
+		"lastname": "Patil",
+		"firstname": "Shri C. R.",
+		"party": "Bharatiya Janata Party",
+		"city": "Navsari",
+		"state": "Gujarat",
+		"lat": "20.9467019",
+		"long": "72.9520348"
+	},
+	{
+		"lastname": "Patil",
+		"firstname": "Shri Kapil Moreshwar",
+		"party": "Bharatiya Janata Party",
+		"city": "Bhiwandi",
+		"state": "Maharashtra",
+		"lat": "19.2812547",
+		"long": "73.0482912"
+	},
+	{
+		"lastname": "Patil",
+		"firstname": "Shri Sanjay(Kaka) Ramchandra",
+		"party": "Bharatiya Janata Party",
+		"city": "Sangli",
+		"state": "Maharashtra",
+		"lat": "16.8523973",
+		"long": "74.5814773"
+	},
+	{
+		"lastname": "Patil",
+		"firstname": "Shri Vijaysinh Mohite",
+		"party": "Nationalist Congress Party",
+		"city": "Madha",
+		"state": "Maharashtra",
+		"lat": "25.2919613",
+		"long": "56.3320773"
+	},
+	{
+		"lastname": "Patle",
+		"firstname": "Smt. Kamla Devi",
+		"party": "Bharatiya Janata Party",
+		"city": "Janjgir-Champa",
+		"state": "Chhattisgarh",
+		"lat": "21.9705529",
+		"long": "82.4752757"
+	},
+	{
+		"lastname": "Paul",
+		"firstname": "Shri Tapas",
+		"party": "All India Trinamool Congress",
+		"city": "Krishnanagar",
+		"state": "West Bengal",
+		"lat": "23.4008744",
+		"long": "88.5013962"
+	},
+	{
+		"lastname": "Phoole",
+		"firstname": "Sushree Sadhvi Savitri Bai",
+		"party": "Bharatiya Janata Party",
+		"city": "Bahraich",
+		"state": "Uttar Pradesh",
+		"lat": "27.5708377",
+		"long": "81.5980246"
+	},
+	{
+		"lastname": "Poddar",
+		"firstname": "Smt. Aparupa",
+		"party": "All India Trinamool Congress",
+		"city": "Arambagh",
+		"state": "West Bengal",
+		"lat": "22.8727502",
+		"long": "87.7910891"
+	},
+	{
+		"lastname": "Prabakaran",
+		"firstname": "Shri K.R.P.",
+		"party": "All India Anna Dravida Munnetra Kazhagam",
+		"city": "Tirunelveli",
+		"state": "Tamil Nadu",
+		"lat": "8.7139126",
+		"long": "77.7566523"
+	},
+	{
+		"lastname": "Pradhan",
+		"firstname": "Shri Nagendra Kumar",
+		"party": "Biju Janata Dal",
+		"city": "Sambalpur",
+		"state": "Odisha",
+		"lat": "21.4668716",
+		"long": "83.9811665"
+	},
+	{
+		"lastname": "Prasad",
+		"firstname": "Dr. Bhagirath",
+		"party": "Bharatiya Janata Party",
+		"city": "Bhind",
+		"state": "Madhya Pradesh",
+		"lat": "26.5587354",
+		"long": "78.7872876"
+	},
+	{
+		"lastname": "Premachandran",
+		"firstname": "Shri N.K.",
+		"party": "Revolutionary Socialist Party",
+		"city": "Kollam",
+		"state": "Kerala",
+		"lat": "8.8932118",
+		"long": "76.6141396"
+	},
+	{
+		"lastname": "Pusapati",
+		"firstname": "Shri Ashok Gajapathi Raju",
+		"party": "Telugu Desam Party",
+		"city": "Vizianagaram",
+		"state": "Andhra Pradesh",
+		"lat": "18.1066576",
+		"long": "83.3955506"
+	},
+	{
+		"lastname": "Raajhaa",
+		"firstname": "Shri A. Anwhar",
+		"party": "All India Anna Dravida Munnetra Kazhagam",
+		"city": "Ramanathapuram",
+		"state": "Tamil Nadu",
+		"lat": "9.3647215",
+		"long": "78.8350855"
+	},
+	{
+		"lastname": "Radadiya",
+		"firstname": "Shri Vitthalbhai Hansrajbhai",
+		"party": "Bharatiya Janata Party",
+		"city": "Porbandar",
+		"state": "Gujarat",
+		"lat": "21.6417069",
+		"long": "69.6292654"
+	},
+	{
+		"lastname": "Radhakrishnan",
+		"firstname": "Shri Pon",
+		"party": "Bharatiya Janata Party",
+		"city": "Kanniyakumari",
+		"state": "Tamil Nadu",
+		"lat": "8.0883064",
+		"long": "77.5384507"
+	},
+	{
+		"lastname": "Radhakrishnan",
+		"firstname": "Shri R.",
+		"party": "All India N.R. Congress",
+		"city": "Puducherry",
+		"state": "Puducherry",
+		"lat": "11.9415524",
+		"long": "79.8082865"
+	},
+	{
+		"lastname": "Radhakrishnan",
+		"firstname": "Shri T.",
+		"party": "All India Anna Dravida Munnetra Kazhagam",
+		"city": "Virudhunagar",
+		"state": "Tamil Nadu",
+		"lat": "9.5680116",
+		"long": "77.9624435"
+	},
+	{
+		"lastname": "Raghavan",
+		"firstname": "Shri M. K.",
+		"party": "Indian National Congress",
+		"city": "Kozhikode",
+		"state": "Kerala",
+		"lat": "11.2587531",
+		"long": "75.78041"
+	},
+	{
+		"lastname": "Raghavendra",
+		"firstname": "Shri B. Y.",
+		"party": "Bharatiya Janata Party",
+		"city": "Shimoga",
+		"state": "Karnataka",
+		"lat": "13.9299299",
+		"long": "75.568101"
+	},
+	{
+		"lastname": "Rai",
+		"firstname": "Shri Nityanand",
+		"party": "Bharatiya Janata Party",
+		"city": "Ujiarpur",
+		"state": "Bihar",
+		"lat": "25.4532672",
+		"long": "83.9664886"
+	},
+	{
+		"lastname": "Rai",
+		"firstname": "Shri Prem Das",
+		"party": "Sikkim Democratic Front",
+		"city": "Sikkim",
+		"state": "Sikkim",
+		"lat": "27.5329718",
+		"long": "88.5122178"
+	},
+	{
+		"lastname": "Raj",
+		"firstname": "Smt. Krishna",
+		"party": "Bharatiya Janata Party",
+		"city": "Shahjahanpur",
+		"state": "Uttar Pradesh",
+		"lat": "27.883744",
+		"long": "79.9122455"
+	},
+	{
+		"lastname": "Raj",
+		"firstname": "Dr. Udit",
+		"party": "Bharatiya Janata Party",
+		"city": "North West Delhi",
+		"state": "NCT of Delhi",
+		"lat": "28.7186211",
+		"long": "77.0685134"
+	},
+	{
+		"lastname": "Rajbhar",
+		"firstname": "Shri Hari Narayan",
+		"party": "Bharatiya Janata Party",
+		"city": "Ghosi",
+		"state": "Uttar Pradesh",
+		"lat": "26.1156595",
+		"long": "83.5443287"
+	},
+	{
+		"lastname": "Rajendran",
+		"firstname": "Shri S.",
+		"party": "All India Anna Dravida Munnetra Kazhagam",
+		"city": "Viluppuram",
+		"state": "Tamil Nadu",
+		"lat": "11.9575509",
+		"long": "79.2902133"
+	},
+	{
+		"lastname": "Rajesh",
+		"firstname": "Shri M. B.",
+		"party": "Communist Party of India (Marxist)",
+		"city": "Palakkad",
+		"state": "Kerala",
+		"lat": "10.7867303",
+		"long": "76.6547932"
+	},
+	{
+		"lastname": "Rajoria",
+		"firstname": "Dr. Manoj",
+		"party": "Bharatiya Janata Party",
+		"city": "Karauli-Dholpur",
+		"state": "Rajasthan",
+		"lat": "26.8787808",
+		"long": "75.7708825"
+	},
+	{
+		"lastname": "Rajput",
+		"firstname": "Shri Mukesh",
+		"party": "Bharatiya Janata Party",
+		"city": "Farrukhabad",
+		"state": "Uttar Pradesh",
+		"lat": "27.3826126",
+		"long": "79.5940544"
+	},
+	{
+		"lastname": "Raju",
+		"firstname": "Shri Gokaraju Ganga",
+		"party": "Bharatiya Janata Party",
+		"city": "Narsapuram",
+		"state": "Andhra Pradesh",
+		"lat": "16.4329833",
+		"long": "81.6966198"
+	},
+	{
+		"lastname": "Ram",
+		"firstname": "Shri Janak",
+		"party": "Bharatiya Janata Party",
+		"city": "Gopalganj",
+		"state": "Bihar",
+		"lat": "26.4513665",
+		"long": "84.3962535"
+	},
+	{
+		"lastname": "Ram",
+		"firstname": "Shri Vishnu Dayal",
+		"party": "Bharatiya Janata Party",
+		"city": "Palamu",
+		"state": "Jharkhand",
+		"lat": "24.1286106",
+		"long": "84.1857115"
+	},
+	{
+		"lastname": "Ram Charitra Nishad",
+		"firstname": "Shri",
+		"party": "Bharatiya Janata Party",
+		"city": "Machhlishahr",
+		"state": "Uttar Pradesh",
+		"lat": "25.6873691",
+		"long": "82.4129729"
+	},
+	{
+		"lastname": "Ram Mohan Naidu",
+		"firstname": "Shri Kinjarapu",
+		"party": "Telugu Desam Party",
+		"city": "Srikakulam",
+		"state": "Andhra Pradesh",
+		"lat": "18.294846",
+		"long": "83.8937761"
+	},
+	{
+		"lastname": "Ram Shankar",
+		"firstname": "Prof. (Dr.)",
+		"party": "Bharatiya Janata Party",
+		"city": "Agra",
+		"state": "Uttar Pradesh",
+		"lat": "27.1766701",
+		"long": "78.0080745"
+	},
+	{
+		"lastname": "Ramachandran",
+		"firstname": "Shri Krishnan Narayanasamy",
+		"party": "All India Anna Dravida Munnetra Kazhagam",
+		"city": "Sriperumbudur",
+		"state": "Tamil Nadu",
+		"lat": "12.9666662",
+		"long": "79.9465841"
+	},
+	{
+		"lastname": "Ramadoss",
+		"firstname": "Dr. Anbumani",
+		"party": "Pattali Makkal Katchi",
+		"city": "Dharmapuri",
+		"state": "Tamil Nadu",
+		"lat": "12.1065271",
+		"long": "78.1361409"
+	},
+	{
+		"lastname": "Ranjan",
+		"firstname": "Smt. Ranjeet",
+		"party": "Indian National Congress",
+		"city": "Supaul",
+		"state": "Bihar",
+		"lat": "26.2899113",
+		"long": "86.8220341"
+	},
+	{
+		"lastname": "Ranjan (Pappu Yadav)",
+		"firstname": "Shri Rajesh",
+		"party": "Rashtriya Janata Dal",
+		"city": "Madhepura",
+		"state": "Bihar",
+		"lat": "25.9286903",
+		"long": "86.7909759"
+	},
+	{
+		"lastname": "Rao",
+		"firstname": "Shri Konakalla Narayana",
+		"party": "Telugu Desam Party",
+		"city": "Machilipatnam",
+		"state": "Andhra Pradesh",
+		"lat": "16.1905457",
+		"long": "81.1361543"
+	},
+	{
+		"lastname": "Rao",
+		"firstname": "Shri Rayapati Sambasiva",
+		"party": "Telugu Desam Party",
+		"city": "Narasaraopet",
+		"state": "Andhra Pradesh",
+		"lat": "16.2353506",
+		"long": "80.0479039"
+	},
+	{
+		"lastname": "Rao (Avanthi)",
+		"firstname": "Shri Muthamsetti Srinivasa",
+		"party": "Telugu Desam Party",
+		"city": "Anakapalle",
+		"state": "Andhra Pradesh",
+		"lat": "17.6895915",
+		"long": "82.9977331"
+	},
+	{
+		"lastname": "Rao Inderjit Singh",
+		"firstname": "",
+		"party": "Bharatiya Janata Party",
+		"city": "Gurgaon",
+		"state": "Haryana",
+		"lat": "28.4594965",
+		"long": "77.0266383"
+	},
+	{
+		"lastname": "Rathod",
+		"firstname": "Shri Dipsinh Shankarsinh",
+		"party": "Bharatiya Janata Party",
+		"city": "Sabarkantha",
+		"state": "Gujarat",
+		"lat": "23.8476704",
+		"long": "72.9932969"
+	},
+	{
+		"lastname": "Rathore",
+		"firstname": "Shri Hariom Singh",
+		"party": "Bharatiya Janata Party",
+		"city": "Rajsamand",
+		"state": "Rajasthan",
+		"lat": "25.0714851",
+		"long": "73.8830701"
+	},
+	{
+		"lastname": "Rathore",
+		"firstname": "Col. Rajyavardhan Singh",
+		"party": "Bharatiya Janata Party",
+		"city": "Jaipur Rural",
+		"state": "Rajasthan",
+		"lat": "26.9236411",
+		"long": "75.8213148"
+	},
+	{
+		"lastname": "Rathwa",
+		"firstname": "Shri Ramsinh Pataliyabhai",
+		"party": "Bharatiya Janata Party",
+		"city": "Chhota Udaipur",
+		"state": "Gujarat",
+		"lat": "22.3084941",
+		"long": "74.0119993"
+	},
+	{
+		"lastname": "Raut",
+		"firstname": "Shri Vinayak Bhaurao",
+		"party": "Shiv Sena",
+		"city": "Ratnagiri-Sindhudurg",
+		"state": "Maharashtra",
+		"lat": "16.9915495",
+		"long": "73.3266424"
+	},
+	{
+		"lastname": "Rawal",
+		"firstname": "Shri Paresh",
+		"party": "Bharatiya Janata Party",
+		"city": "Ahmedabad East",
+		"state": "Gujarat",
+		"lat": "23.022505",
+		"long": "72.5713621"
+	},
+	{
+		"lastname": "Rawat",
+		"firstname": "Smt. Priyanka Singh",
+		"party": "Bharatiya Janata Party",
+		"city": "Barabanki",
+		"state": "Uttar Pradesh",
+		"lat": "26.9268042",
+		"long": "81.1833809"
+	},
+	{
+		"lastname": "Ray",
+		"firstname": "Shri Bishnu Pada",
+		"party": "Bharatiya Janata Party",
+		"city": "Andaman and Nicobar Islands",
+		"state": "Andaman and Nicobar Islands",
+		"lat": "11.7400867",
+		"long": "92.6586401"
+	},
+	{
+		"lastname": "Ray",
+		"firstname": "Shri Partha Pratim",
+		"party": "All India Trinamool Congress",
+		"city": "Coochbehar",
+		"state": "West Bengal",
+		"lat": "26.3356861",
+		"long": "89.445851"
+	},
+	{
+		"lastname": "Ray",
+		"firstname": "Dr. Ravindra Kumar",
+		"party": "Bharatiya Janata Party",
+		"city": "Kodarma",
+		"state": "Jharkhand",
+		"lat": "24.4676805",
+		"long": "85.5933645"
+	},
+	{
+		"lastname": "Reddy",
+		"firstname": "Shri A.P. Jithender",
+		"party": "Telangana Rashtra Samithi",
+		"city": "Mahabubnagar",
+		"state": "Telangana",
+		"lat": "16.7375089",
+		"long": "78.0081221"
+	},
+	{
+		"lastname": "Reddy",
+		"firstname": "Shri J.C. Divakar",
+		"party": "Telugu Desam Party",
+		"city": "Anantapur",
+		"state": "Andhra Pradesh",
+		"lat": "14.6818877",
+		"long": "77.6005911"
+	},
+	{
+		"lastname": "Reddy",
+		"firstname": "Shri Konda Vishweshwar",
+		"party": "Telangana Rashtra Samithi",
+		"city": "Chevella",
+		"state": "Telangana",
+		"lat": "17.3123703",
+		"long": "78.138541"
+	},
+	{
+		"lastname": "Reddy",
+		"firstname": "Shri Kotha Prabhakar",
+		"party": "Telangana Rashtra Samithi",
+		"city": "Medak",
+		"state": "Telangana",
+		"lat": "18.0529357",
+		"long": "78.261853"
+	},
+	{
+		"lastname": "Reddy",
+		"firstname": "Shri Ponguleti Srinivasa",
+		"party": "Yuvajana Sramika Rythu Congress Party",
+		"city": "Khammam",
+		"state": "Telangana",
+		"lat": "17.2472528",
+		"long": "80.1514447"
+	},
+	{
+		"lastname": "Reddy",
+		"firstname": "Shri S.P.Y.",
+		"party": "Yuvajana Sramika Rythu Congress Party",
+		"city": "Nandyal",
+		"state": "Andhra Pradesh",
+		"lat": "15.4785694",
+		"long": "78.4830934"
+	},
+	{
+		"lastname": "Rijiju",
+		"firstname": "Shri Kiren",
+		"party": "Bharatiya Janata Party",
+		"city": "Arunachal West",
+		"state": "Arunachal Pradesh",
+		"lat": "28.2179994",
+		"long": "94.7277528"
+	},
+	{
+		"lastname": "Rori",
+		"firstname": "Shri Charanjeet Singh",
+		"party": "Indian National Lok Dal",
+		"city": "Sirsa",
+		"state": "Haryana",
+		"lat": "29.5335931",
+		"long": "75.0177029"
+	},
+	{
+		"lastname": "Roy",
+		"firstname": "Smt. Sandhya",
+		"party": "All India Trinamool Congress",
+		"city": "Medinipur",
+		"state": "West Bengal",
+		"lat": "22.4308892",
+		"long": "87.3214908"
+	},
+	{
+		"lastname": "Roy",
+		"firstname": "Prof. Saugata",
+		"party": "All India Trinamool Congress",
+		"city": "Dum Dum",
+		"state": "West Bengal",
+		"lat": "#VALUE!",
+		"long": "#VALUE!"
+	},
+	{
+		"lastname": "Roy (Banerjee)",
+		"firstname": "Smt. Satabdi",
+		"party": "All India Trinamool Congress",
+		"city": "Birbhum",
+		"state": "West Bengal",
+		"lat": "23.8401675",
+		"long": "87.6186379"
+	},
+	{
+		"lastname": "Ruala",
+		"firstname": "Shri C. L.",
+		"party": "Indian National Congress",
+		"city": "Mizoram",
+		"state": "Mizoram",
+		"lat": "23.164543",
+		"long": "92.9375739"
+	},
+	{
+		"lastname": "Rudy",
+		"firstname": "Shri Rajiv Pratap",
+		"party": "Bharatiya Janata Party",
+		"city": "Saran",
+		"state": "Bihar",
+		"lat": "47.94791",
+		"long": "1.880734"
+	},
+	{
+		"lastname": "S.R.",
+		"firstname": "Shri Vijayakumar",
+		"party": "All India Anna Dravida Munnetra Kazhagam",
+		"city": "Chennai Central",
+		"state": "Tamil Nadu",
+		"lat": "13.0821888",
+		"long": "80.2755083"
+	},
+	{
+		"lastname": "Sahu",
+		"firstname": "Shri Chandu Lal",
+		"party": "Bharatiya Janata Party",
+		"city": "Mahasamund",
+		"state": "Chhattisgarh",
+		"lat": "21.1705408",
+		"long": "82.605118"
+	},
+	{
+		"lastname": "Sahu",
+		"firstname": "Shri Lakhan Lal",
+		"party": "Bharatiya Janata Party",
+		"city": "Bilaspur",
+		"state": "Chhattisgarh",
+		"lat": "22.0796251",
+		"long": "82.1391412"
+	},
+	{
+		"lastname": "Sai",
+		"firstname": "Shri Vishnu Deo",
+		"party": "Bharatiya Janata Party",
+		"city": "Raigarh",
+		"state": "Chhattisgarh",
+		"lat": "21.8974003",
+		"long": "83.3949632"
+	},
+	{
+		"lastname": "Saini",
+		"firstname": "Shri Raj Kumar",
+		"party": "Bharatiya Janata Party",
+		"city": "Kurukshetra",
+		"state": "Haryana",
+		"lat": "29.9695121",
+		"long": "76.878282"
+	},
+	{
+		"lastname": "Salim",
+		"firstname": "Shri Mohammad",
+		"party": "Communist Party of India (Marxist)",
+		"city": "Raiganj",
+		"state": "West Bengal",
+		"lat": "25.6185295",
+		"long": "88.1255837"
+	},
+	{
+		"lastname": "Samal",
+		"firstname": "Dr. Kulamani",
+		"party": "Biju Janata Dal",
+		"city": "Jagatsinghpur",
+		"state": "Odisha",
+		"lat": "20.1975828",
+		"long": "86.3376761"
+	},
+	{
+		"lastname": "Sampath",
+		"firstname": "Dr. Anirudhan",
+		"party": "Communist Party of India (Marxist)",
+		"city": "Attingal",
+		"state": "Kerala",
+		"lat": "8.6950338",
+		"long": "76.817881"
+	},
+	{
+		"lastname": "Sampla",
+		"firstname": "Shri Vijay",
+		"party": "Bharatiya Janata Party",
+		"city": "Hoshiarpur",
+		"state": "Punjab",
+		"lat": "31.5143178",
+		"long": "75.911483"
+	},
+	{
+		"lastname": "Sanghamita",
+		"firstname": "Prof. (Dr.) Mamtaz",
+		"party": "All India Trinamool Congress",
+		"city": "Bardhaman-Durgapur",
+		"state": "West Bengal",
+		"lat": "23.5204443",
+		"long": "87.3119227"
+	},
+	{
+		"lastname": "Sanjar",
+		"firstname": "Shri Alok",
+		"party": "Bharatiya Janata Party",
+		"city": "Bhopal",
+		"state": "Madhya Pradesh",
+		"lat": "23.2599333",
+		"long": "77.412615"
+	},
+	{
+		"lastname": "Sarania",
+		"firstname": "Shri Naba (Hira) Kumar",
+		"party": "Independents",
+		"city": "Kokrajhar",
+		"state": "Assam",
+		"lat": "26.4014362",
+		"long": "90.266699"
+	},
+	{
+		"lastname": "Saraswati",
+		"firstname": "Shri Sumedhanand",
+		"party": "Bharatiya Janata Party",
+		"city": "Sikar",
+		"state": "Rajasthan",
+		"lat": "27.6094",
+		"long": "75.139911"
+	},
+	{
+		"lastname": "Saren",
+		"firstname": "Dr. Uma",
+		"party": "All India Trinamool Congress",
+		"city": "Jhargram",
+		"state": "West Bengal",
+		"lat": "22.4549909",
+		"long": "86.9974385"
+	},
+	{
+		"lastname": "Sarmah",
+		"firstname": "Shri Ram Prasad",
+		"party": "Bharatiya Janata Party",
+		"city": "Tezpur",
+		"state": "Assam",
+		"lat": "26.6528495",
+		"long": "92.7925592"
+	},
+	{
+		"lastname": "Satav",
+		"firstname": "Shri Rajeev Shankarrao",
+		"party": "Indian National Congress",
+		"city": "Hingoli",
+		"state": "Maharashtra",
+		"lat": "19.7173703",
+		"long": "77.1493722"
+	},
+	{
+		"lastname": "Sathyabama",
+		"firstname": "Smt. V.",
+		"party": "All India Anna Dravida Munnetra Kazhagam",
+		"city": "Tiruppur",
+		"state": "Tamil Nadu",
+		"lat": "11.1085242",
+		"long": "77.3410656"
+	},
+	{
+		"lastname": "Satpathy",
+		"firstname": "Shri Tathagata",
+		"party": "Biju Janata Dal",
+		"city": "Dhenkanal",
+		"state": "Odisha",
+		"lat": "20.6503455",
+		"long": "85.5972218"
+	},
+	{
+		"lastname": "Saumitra",
+		"firstname": "Shri Khan",
+		"party": "All India Trinamool Congress",
+		"city": "Bishnupur",
+		"state": "West Bengal",
+		"lat": "23.0678795",
+		"long": "87.3165222"
+	},
+	{
+		"lastname": "Sawaikar",
+		"firstname": "Advocate (Shri) Narendra Keshav",
+		"party": "Bharatiya Janata Party",
+		"city": "South Goa",
+		"state": "Goa",
+		"lat": "15.11766",
+		"long": "74.123996"
+	},
+	{
+		"lastname": "Sawant",
+		"firstname": "Shri Arvind Ganpat",
+		"party": "Shiv Sena",
+		"city": "Mumbai-South",
+		"state": "Maharashtra",
+		"lat": "19.0759837",
+		"long": "72.8776559"
+	},
+	{
+		"lastname": "Scindia",
+		"firstname": "Shri Jyotiraditya Madhavrao",
+		"party": "Indian National Congress",
+		"city": "Guna",
+		"state": "Madhya Pradesh",
+		"lat": "#VALUE!",
+		"long": "#VALUE!"
+	},
+	{
+		"lastname": "Selvakumarachinnayan",
+		"firstname": "Shri S.",
+		"party": "All India Anna Dravida Munnetra Kazhagam",
+		"city": "Erode",
+		"state": "Tamil Nadu",
+		"lat": "11.3410364",
+		"long": "77.7171642"
+	},
+	{
+		"lastname": "Selvam",
+		"firstname": "Shri V. Panneer",
+		"party": "All India Anna Dravida Munnetra Kazhagam",
+		"city": "Salem",
+		"state": "Tamil Nadu",
+		"lat": "42.51954",
+		"long": "-70.8967155"
+	},
+	{
+		"lastname": "Senguttuvan",
+		"firstname": "Shri B.",
+		"party": "All India Anna Dravida Munnetra Kazhagam",
+		"city": "Vellore",
+		"state": "Tamil Nadu",
+		"lat": "12.9165167",
+		"long": "79.1324986"
+	},
+	{
+		"lastname": "Senthilnathan",
+		"firstname": "Shri P.R.",
+		"party": "All India Anna Dravida Munnetra Kazhagam",
+		"city": "Sivaganga",
+		"state": "Tamil Nadu",
+		"lat": "9.8432999",
+		"long": "78.4808775"
+	},
+	{
+		"lastname": "Sethi",
+		"firstname": "Shri Arjun Charan",
+		"party": "Biju Janata Dal",
+		"city": "Bhadrak",
+		"state": "Odisha",
+		"lat": "21.0582737",
+		"long": "86.4958396"
+	},
+	{
+		"lastname": "Shah",
+		"firstname": "Smt. Mala Rajya Laxmi",
+		"party": "Bharatiya Janata Party",
+		"city": "Tehri Garhwal",
+		"state": "Uttarakhand",
+		"lat": "30.3011858",
+		"long": "78.5660852"
+	},
+	{
+		"lastname": "Sharma",
+		"firstname": "Shri Jugal Kishore",
+		"party": "Bharatiya Janata Party",
+		"city": "Jammu",
+		"state": "Jammu and Kashmir",
+		"lat": "32.7266016",
+		"long": "74.8570259"
+	},
+	{
+		"lastname": "Sharma",
+		"firstname": "Dr. Mahesh",
+		"party": "Bharatiya Janata Party",
+		"city": "Gautam Buddha Nagar",
+		"state": "Uttar Pradesh",
+		"lat": "28.338333",
+		"long": "77.6077865"
+	},
+	{
+		"lastname": "Sharma",
+		"firstname": "Shri Ram Kumar",
+		"party": "Rashtriya Lok Samta Party",
+		"city": "Sitamarhi",
+		"state": "Bihar",
+		"lat": "26.5952476",
+		"long": "85.4808393"
+	},
+	{
+		"lastname": "Sharma",
+		"firstname": "Shri Ram Swaroop",
+		"party": "Bharatiya Janata Party",
+		"city": "Mandi",
+		"state": "Himachal Pradesh",
+		"lat": "38.8767388",
+		"long": "-77.1278777"
+	},
+	{
+		"lastname": "Shekhawat",
+		"firstname": "Shri Gajendra Singh",
+		"party": "Bharatiya Janata Party",
+		"city": "Jodhpur",
+		"state": "Rajasthan",
+		"lat": "26.2389469",
+		"long": "73.0243094"
+	},
+	{
+		"lastname": "Shetti",
+		"firstname": "Shri Raju alias Devappa Anna",
+		"party": "Swabhimani Paksha",
+		"city": "Hatkanangle",
+		"state": "Maharashtra",
+		"lat": "16.7445608",
+		"long": "74.4467007"
+	},
+	{
+		"lastname": "Shetty",
+		"firstname": "Shri Gopal Chinayya",
+		"party": "Bharatiya Janata Party",
+		"city": "Mumbai-North",
+		"state": "Maharashtra",
+		"lat": "19.0759837",
+		"long": "72.8776559"
+	},
+	{
+		"lastname": "Shewale",
+		"firstname": "Shri Rahul Ramesh",
+		"party": "Shiv Sena",
+		"city": "Mumbai South-Central",
+		"state": "Maharashtra",
+		"lat": "19.0759837",
+		"long": "72.8776559"
+	},
+	{
+		"lastname": "Shinde",
+		"firstname": "Dr. Shrikant Eknath",
+		"party": "Shiv Sena",
+		"city": "Kalyan",
+		"state": "Maharashtra",
+		"lat": "19.2403305",
+		"long": "73.1305395"
+	},
+	{
+		"lastname": "Shivaramegowda",
+		"firstname": "Shri L.R.",
+		"party": "Janata Dal (Secular)",
+		"city": "Mandya",
+		"state": "Karnataka",
+		"lat": "12.5221567",
+		"long": "76.9009191"
+	},
+	{
+		"lastname": "Shyal",
+		"firstname": "Dr. Bharati Dhirubhai",
+		"party": "Bharatiya Janata Party",
+		"city": "Bhavnagar",
+		"state": "Gujarat",
+		"lat": "21.7644725",
+		"long": "72.1519304"
+	},
+	{
+		"lastname": "Siddeshwara",
+		"firstname": "Shri Gowdar Mallikarjunappa",
+		"party": "Bharatiya Janata Party",
+		"city": "Davanagere",
+		"state": "Karnataka",
+		"lat": "14.4644085",
+		"long": "75.921758"
+	},
+	{
+		"lastname": "Sigriwal",
+		"firstname": "Shri Janardan Singh",
+		"party": "Bharatiya Janata Party",
+		"city": "Maharajganj",
+		"state": "Bihar",
+		"lat": "27.1177463",
+		"long": "83.5070203"
+	},
+	{
+		"lastname": "Simha",
+		"firstname": "Shri Prathap",
+		"party": "Bharatiya Janata Party",
+		"city": "Mysore",
+		"state": "Karnataka",
+		"lat": "12.2958104",
+		"long": "76.6393805"
+	},
+	{
+		"lastname": "Singh",
+		"firstname": "Shri Abhishek",
+		"party": "Bharatiya Janata Party",
+		"city": "Rajnandgaon",
+		"state": "Chhattisgarh",
+		"lat": "21.0971034",
+		"long": "81.0302222"
+	},
+	{
+		"lastname": "Singh",
+		"firstname": "Shri Bharat",
+		"party": "Bharatiya Janata Party",
+		"city": "Ballia",
+		"state": "Uttar Pradesh",
+		"lat": "25.8307174",
+		"long": "84.1857115"
+	},
+	{
+		"lastname": "Singh",
+		"firstname": "Kunwar Bharatendra",
+		"party": "Bharatiya Janata Party",
+		"city": "Bijnor",
+		"state": "Uttar Pradesh",
+		"lat": "29.3724422",
+		"long": "78.1358472"
+	},
+	{
+		"lastname": "Singh",
+		"firstname": "Shri Bhola",
+		"party": "Bharatiya Janata Party",
+		"city": "Bulandshahr",
+		"state": "Uttar Pradesh",
+		"lat": "28.406963",
+		"long": "77.8498292"
+	},
+	{
+		"lastname": "Singh",
+		"firstname": "Shri Brijbhushan Sharan",
+		"party": "Bharatiya Janata Party",
+		"city": "Kaiserganj",
+		"state": "Uttar Pradesh",
+		"lat": "27.2514781",
+		"long": "81.5473014"
+	},
+	{
+		"lastname": "Singh",
+		"firstname": "Shri Devendra (Alias) Bhole Singh",
+		"party": "Bharatiya Janata Party",
+		"city": "Akbarpur",
+		"state": "Uttar Pradesh",
+		"lat": "26.4269869",
+		"long": "82.5331119"
+	},
+	{
+		"lastname": "Singh",
+		"firstname": "Shri Dushyant",
+		"party": "Bharatiya Janata Party",
+		"city": "Jhalawar-Baran",
+		"state": "Rajasthan",
+		"lat": "24.5779934",
+		"long": "76.1743565"
+	},
+	{
+		"lastname": "Singh",
+		"firstname": "Shri Ganesh",
+		"party": "Bharatiya Janata Party",
+		"city": "Satna",
+		"state": "Madhya Pradesh",
+		"lat": "24.6005075",
+		"long": "80.8322428"
+	},
+	{
+		"lastname": "Singh",
+		"firstname": "Shri Giriraj",
+		"party": "Bharatiya Janata Party",
+		"city": "Nawada",
+		"state": "Bihar",
+		"lat": "24.8910775",
+		"long": "85.5354724"
+	},
+	{
+		"lastname": "Singh",
+		"firstname": "Shri Gyan",
+		"party": "Bharatiya Janata Party",
+		"city": "Shahdol",
+		"state": "Madhya Pradesh",
+		"lat": "23.3021885",
+		"long": "81.3568021"
+	},
+	{
+		"lastname": "Singh",
+		"firstname": "Dr. Jitendra",
+		"party": "Bharatiya Janata Party",
+		"city": "Udhampur",
+		"state": "Jammu and Kashmir",
+		"lat": "32.9159847",
+		"long": "75.1416173"
+	},
+	{
+		"lastname": "Singh",
+		"firstname": "Shri Kirti Vardhan",
+		"party": "Bharatiya Janata Party",
+		"city": "Gonda",
+		"state": "Uttar Pradesh",
+		"lat": "27.0374187",
+		"long": "81.9534815"
+	},
+	{
+		"lastname": "Singh",
+		"firstname": "Dr. Krishna Pratap",
+		"party": "Bharatiya Janata Party",
+		"city": "Jaunpur",
+		"state": "Uttar Pradesh",
+		"lat": "25.7490034",
+		"long": "82.6987002"
+	},
+	{
+		"lastname": "Singh",
+		"firstname": "Shri Kunwar Haribansh",
+		"party": "Apna Dal",
+		"city": "Pratapgarh",
+		"state": "Uttar Pradesh",
+		"lat": "25.8973038",
+		"long": "81.9452981"
+	},
+	{
+		"lastname": "Singh",
+		"firstname": "Shri Lallu",
+		"party": "Bharatiya Janata Party",
+		"city": "Faizabad",
+		"state": "Uttar Pradesh",
+		"lat": "26.7732476",
+		"long": "82.1441643"
+	},
+	{
+		"lastname": "Singh",
+		"firstname": "Dr. Nepal",
+		"party": "Bharatiya Janata Party",
+		"city": "Rampur",
+		"state": "Uttar Pradesh",
+		"lat": "28.7893041",
+		"long": "79.0249516"
+	},
+	{
+		"lastname": "Singh",
+		"firstname": "Shri Parvesh Sahib",
+		"party": "Bharatiya Janata Party",
+		"city": "West Delhi",
+		"state": "NCT of Delhi",
+		"lat": "28.6663433",
+		"long": "77.067959"
+	},
+	{
+		"lastname": "Singh",
+		"firstname": "Shri Pashupati Nath",
+		"party": "Bharatiya Janata Party",
+		"city": "Dhanbad",
+		"state": "Jharkhand",
+		"lat": "23.7956531",
+		"long": "86.4303859"
+	},
+	{
+		"lastname": "Singh",
+		"firstname": "Dr. Prabhas Kumar",
+		"party": "Biju Janata Dal",
+		"city": "Bargarh",
+		"state": "Odisha",
+		"lat": "21.3425839",
+		"long": "83.624201"
+	},
+	{
+		"lastname": "Singh",
+		"firstname": " Smt. Pratyusha Rajeshwari",
+		"party": "Biju Janata Dal",
+		"city": "Kandhamal",
+		"state": "Odisha",
+		"lat": "20.1342042",
+		"long": "84.0167423"
+	},
+	{
+		"lastname": "Singh",
+		"firstname": "Shri Radha Mohan",
+		"party": "Bharatiya Janata Party",
+		"city": "Purvi Champaran",
+		"state": "Bihar",
+		"lat": "26.6098139",
+		"long": "84.8567932"
+	},
+	{
+		"lastname": "Singh",
+		"firstname": "Shri Raj Kumar",
+		"party": "Bharatiya Janata Party",
+		"city": "Arrah",
+		"state": "Bihar",
+		"lat": "25.5560443",
+		"long": "84.6603307"
+	},
+	{
+		"lastname": "Singh",
+		"firstname": "Shri Rajnath",
+		"party": "Bharatiya Janata Party",
+		"city": "Lucknow",
+		"state": "Uttar Pradesh",
+		"lat": "26.8466937",
+		"long": "80.946166"
+	},
+	{
+		"lastname": "Singh",
+		"firstname": "Shri Rajveer (Raju Bhaiya)",
+		"party": "Bharatiya Janata Party",
+		"city": "Etah",
+		"state": "Uttar Pradesh",
+		"lat": "27.5587505",
+		"long": "78.662567"
+	},
+	{
+		"lastname": "Singh",
+		"firstname": "Shri Rakesh",
+		"party": "Bharatiya Janata Party",
+		"city": "Jabalpur",
+		"state": "Madhya Pradesh",
+		"lat": "23.181467",
+		"long": "79.9864071"
+	},
+	{
+		"lastname": "Singh",
+		"firstname": "Shri Rama Kishore",
+		"party": "Lok Jan Shakti Party",
+		"city": "Vaishali",
+		"state": "Bihar",
+		"lat": "25.6838206",
+		"long": "85.354965"
+	},
+	{
+		"lastname": "Singh",
+		"firstname": "Shri Ravneet",
+		"party": "Indian National Congress",
+		"city": "Ludhiana",
+		"state": "Punjab",
+		"lat": "30.900965",
+		"long": "75.8572758"
+	},
+	{
+		"lastname": "Singh",
+		"firstname": "Prof. Sadhu",
+		"party": "Aam Aadmi Party",
+		"city": "Faridkot",
+		"state": "Punjab",
+		"lat": "30.6769462",
+		"long": "74.7583351"
+	},
+	{
+		"lastname": "Singh",
+		"firstname": "Shri Satya Pal",
+		"party": "Bharatiya Janata Party",
+		"city": "Sambhal",
+		"state": "Uttar Pradesh",
+		"lat": "28.5903614",
+		"long": "78.5717631"
+	},
+	{
+		"lastname": "Singh",
+		"firstname": "Dr. Satya Pal",
+		"party": "Bharatiya Janata Party",
+		"city": "Baghpat",
+		"state": "Uttar Pradesh",
+		"lat": "28.9421618",
+		"long": "77.2261452"
+	},
+	{
+		"lastname": "Singh",
+		"firstname": "Shri Sunil Kumar",
+		"party": "Bharatiya Janata Party",
+		"city": "Chatra",
+		"state": "Jharkhand",
+		"lat": "24.1526331",
+		"long": "84.8567932"
+	},
+	{
+		"lastname": "Singh",
+		"firstname": "Shri Sushil Kumar",
+		"party": "Bharatiya Janata Party",
+		"city": "Aurangabad",
+		"state": "Bihar",
+		"lat": "19.8761653",
+		"long": "75.3433139"
+	},
+	{
+		"lastname": "Singh",
+		"firstname": "Shri Uday Pratap",
+		"party": "Bharatiya Janata Party",
+		"city": "Hoshangabad",
+		"state": "Madhya Pradesh",
+		"lat": "22.744108",
+		"long": "77.736967"
+	},
+	{
+		"lastname": "Singh",
+		"firstname": "Shri Virendra",
+		"party": "Bharatiya Janata Party",
+		"city": "Bhadohi",
+		"state": "Uttar Pradesh",
+		"lat": "25.38727",
+		"long": "82.5680309"
+	},
+	{
+		"lastname": "Singh",
+		"firstname": "Dr. Yashwant",
+		"party": "Bharatiya Janata Party",
+		"city": "Nagina",
+		"state": "Uttar Pradesh",
+		"lat": "37.4923247",
+		"long": "-120.8619991"
+	},
+	{
+		"lastname": "Singh Deo",
+		"firstname": "Shri Kalikesh Narayan",
+		"party": "Biju Janata Dal",
+		"city": "Bolangir",
+		"state": "Odisha",
+		"lat": "20.7074234",
+		"long": "83.4842725"
+	},
+	{
+		"lastname": "Sinha",
+		"firstname": "Shri Jayant",
+		"party": "Bharatiya Janata Party",
+		"city": "Hazaribagh",
+		"state": "Jharkhand",
+		"lat": "23.9966213",
+		"long": "85.3691068"
+	},
+	{
+		"lastname": "Sinha",
+		"firstname": "Shri Manoj Kumar",
+		"party": "Bharatiya Janata Party",
+		"city": "Ghazipur",
+		"state": "Uttar Pradesh",
+		"lat": "25.5840419",
+		"long": "83.5770202"
+	},
+	{
+		"lastname": "Sinha",
+		"firstname": "Shri Shatrughan Prasad",
+		"party": "Bharatiya Janata Party",
+		"city": "Patna Sahib",
+		"state": "Bihar",
+		"lat": "25.5960291",
+		"long": "85.2300473"
+	},
+	{
+		"lastname": "Sivaprasad",
+		"firstname": "Dr. Naramalli",
+		"party": "Telugu Desam Party",
+		"city": "Chittoor",
+		"state": "Andhra Pradesh",
+		"lat": "13.217176",
+		"long": "79.1003289"
+	},
+	{
+		"lastname": "Solanki",
+		"firstname": "Dr. (Prof.) Kirit Premjibhai",
+		"party": "Bharatiya Janata Party",
+		"city": "Ahmedabad West",
+		"state": "Gujarat",
+		"lat": "23.022505",
+		"long": "72.5713621"
+	},
+	{
+		"lastname": "Sonkar",
+		"firstname": "Shri Vinod Kumar",
+		"party": "Bharatiya Janata Party",
+		"city": "Kaushambi",
+		"state": "Uttar Pradesh",
+		"lat": "25.5064864",
+		"long": "81.4278984"
+	},
+	{
+		"lastname": "Sonker",
+		"firstname": "Smt. Neelam",
+		"party": "Bharatiya Janata Party",
+		"city": "Lalganj",
+		"state": "Uttar Pradesh",
+		"lat": "26.1650564",
+		"long": "80.9705292"
+	},
+	{
+		"lastname": "Soren",
+		"firstname": "Shri Shibu",
+		"party": "Jharkhand Mukti Morcha",
+		"city": "Dumka",
+		"state": "Jharkhand",
+		"lat": "24.2854664",
+		"long": "87.2419299"
+	},
+	{
+		"lastname": "Sule",
+		"firstname": "Smt. Supriya Sadanand",
+		"party": "Nationalist Congress Party",
+		"city": "Baramati",
+		"state": "Maharashtra",
+		"lat": "18.1841352",
+		"long": "74.6107628"
+	},
+	{
+		"lastname": "Sumitra Mahajan (Tai)",
+		"firstname": "",
+		"party": "Bharatiya Janata Party",
+		"city": "Indore",
+		"state": "Madhya Pradesh",
+		"lat": "22.7195687",
+		"long": "75.8577258"
+	},
+	{
+		"lastname": "Sundaram",
+		"firstname": "Shri P.R.",
+		"party": "All India Anna Dravida Munnetra Kazhagam",
+		"city": "Namakkal",
+		"state": "Tamil Nadu",
+		"lat": "11.2194391",
+		"long": "78.1677236"
+	},
+	{
+		"lastname": "Suresh",
+		"firstname": "Shri Doddaalahalli Kempegowda",
+		"party": "Indian National Congress",
+		"city": "Bangalore Rural",
+		"state": "Karnataka",
+		"lat": "13.2846993",
+		"long": "77.6077865"
+	},
+	{
+		"lastname": "Sushree",
+		"firstname": " Uma Bharati",
+		"party": "Bharatiya Janata Party",
+		"city": "Jhansi",
+		"state": "Uttar Pradesh",
+		"lat": "25.4484257",
+		"long": "78.5684594"
+	},
+	{
+		"lastname": "Swain",
+		"firstname": "Shri Ladu Kishore",
+		"party": "Biju Janata Dal",
+		"city": "Aska",
+		"state": "Odisha",
+		"lat": "40.7124107",
+		"long": "-73.9664545"
+	},
+	{
+		"lastname": "Swami Maharaj",
+		"firstname": " Dr. Sakshi Ji",
+		"party": "Bharatiya Janata Party",
+		"city": "Unnao",
+		"state": "Uttar Pradesh",
+		"lat": "26.5393449",
+		"long": "80.4878195"
+	},
+	{
+		"lastname": "Swaraj",
+		"firstname": "Smt. Sushma",
+		"party": "Bharatiya Janata Party",
+		"city": "Vidisha",
+		"state": "Madhya Pradesh",
+		"lat": "23.5251102",
+		"long": "77.8081363"
+	},
+	{
+		"lastname": "Tadas",
+		"firstname": "Shri Ramdas Chandrabhanji",
+		"party": "Bharatiya Janata Party",
+		"city": "Wardha",
+		"state": "Maharashtra",
+		"lat": "20.745319",
+		"long": "78.6021946"
+	},
+	{
+		"lastname": "Tamta",
+		"firstname": "Shri Ajay",
+		"party": "Bharatiya Janata Party",
+		"city": "Almora",
+		"state": "Uttarakhand",
+		"lat": "29.5892407",
+		"long": "79.646666"
+	},
+	{
+		"lastname": "Tanwar",
+		"firstname": "Shri Kanwar Singh",
+		"party": "Bharatiya Janata Party",
+		"city": "Amroha",
+		"state": "Uttar Pradesh",
+		"lat": "28.9043537",
+		"long": "78.4673426"
+	},
+	{
+		"lastname": "Tarai",
+		"firstname": "Smt. Rita",
+		"party": "Biju Janata Dal",
+		"city": "Jajpur",
+		"state": "Odisha",
+		"lat": "20.7652197",
+		"long": "86.1751759"
+	},
+	{
+		"lastname": "Tasa",
+		"firstname": "Shri Kamakhya Prasad",
+		"party": "Bharatiya Janata Party",
+		"city": "Jorhat",
+		"state": "Assam",
+		"lat": "26.7465203",
+		"long": "94.2025859"
+	},
+	{
+		"lastname": "Teacher",
+		"firstname": "Smt. P.K. Sreemathi",
+		"party": "Communist Party of India (Marxist)",
+		"city": "Kannur",
+		"state": "Kerala",
+		"lat": "11.8744775",
+		"long": "75.3703662"
+	},
+	{
+		"lastname": "Teli",
+		"firstname": "Shri Rameswar",
+		"party": "Bharatiya Janata Party",
+		"city": "Dibrugarh",
+		"state": "Assam",
+		"lat": "27.4728327",
+		"long": "94.9119621"
+	},
+	{
+		"lastname": "Thakur",
+		"firstname": "Shri Anurag Singh",
+		"party": "Bharatiya Janata Party",
+		"city": "Hamirpur",
+		"state": "Himachal Pradesh",
+		"lat": "31.6861745",
+		"long": "76.5213092"
+	},
+	{
+		"lastname": "Thakur",
+		"firstname": "Smt. Mamata",
+		"party": "All India Trinamool Congress",
+		"city": "Bangaon",
+		"state": "West Bengal",
+		"lat": "23.0440381",
+		"long": "88.827703"
+	},
+	{
+		"lastname": "Thakur",
+		"firstname": "Smt. Savitri",
+		"party": "Bharatiya Janata Party",
+		"city": "Dhar",
+		"state": "Madhya Pradesh",
+		"lat": "22.6012922",
+		"long": "75.3024655"
+	},
+	{
+		"lastname": "Thambi Durai",
+		"firstname": "Dr. M.",
+		"party": "All India Anna Dravida Munnetra Kazhagam",
+		"city": "Karur",
+		"state": "Tamil Nadu",
+		"lat": "10.9600778",
+		"long": "78.0766036"
+	},
+	{
+		"lastname": "Tharoor",
+		"firstname": "Dr. Shashi",
+		"party": "Indian National Congress",
+		"city": "Thiruvananthapuram",
+		"state": "Kerala",
+		"lat": "8.5241391",
+		"long": "76.9366376"
+	},
+	{
+		"lastname": "Thomas",
+		"firstname": "Prof. Kuruppassery Varkey",
+		"party": "Indian National Congress",
+		"city": "Ernakulam",
+		"state": "Kerala",
+		"lat": "9.9816358",
+		"long": "76.2998842"
+	},
+	{
+		"lastname": "Thota",
+		"firstname": "Shri Narasimham",
+		"party": "Telugu Desam Party",
+		"city": "Kakinada",
+		"state": "Andhra Pradesh",
+		"lat": "16.9890648",
+		"long": "82.2474648"
+	},
+	{
+		"lastname": "Tirkey",
+		"firstname": "Shri Dasrath",
+		"party": "All India Trinamool Congress",
+		"city": "Alipurduars",
+		"state": "West Bengal",
+		"lat": "26.48377",
+		"long": "89.535046"
+	},
+	{
+		"lastname": "Tiwari",
+		"firstname": "Shri Manoj Kumar",
+		"party": "Bharatiya Janata Party",
+		"city": "North East Delhi",
+		"state": "NCT of Delhi",
+		"lat": "28.7183693",
+		"long": "77.2580268"
+	},
+	{
+		"lastname": "Tokheho",
+		"firstname": "Shri",
+		"party": "Nationalist Democratic Progressive Party",
+		"city": "Nagaland",
+		"state": "Nagaland",
+		"lat": "26.1584354",
+		"long": "94.5624426"
+	},
+	{
+		"lastname": "Tomar",
+		"firstname": "Shri Narendra Singh",
+		"party": "Bharatiya Janata Party",
+		"city": "Gwalior",
+		"state": "Madhya Pradesh",
+		"lat": "26.2182871",
+		"long": "78.1828308"
+	},
+	{
+		"lastname": "Tripathi",
+		"firstname": "Shri Sharad",
+		"party": "Bharatiya Janata Party",
+		"city": "Sant Kabir Nagar",
+		"state": "Uttar Pradesh",
+		"lat": "26.7671755",
+		"long": "83.0361376"
+	},
+	{
+		"lastname": "Trivedi",
+		"firstname": "Shri Dinesh",
+		"party": "All India Trinamool Congress",
+		"city": "Barrackpur",
+		"state": "West Bengal",
+		"lat": "22.7674278",
+		"long": "88.3883455"
+	},
+	{
+		"lastname": "Tumane",
+		"firstname": "Shri Krupal Balaji",
+		"party": "Shiv Sena",
+		"city": "Ramtek",
+		"state": "Maharashtra",
+		"lat": "21.3928618",
+		"long": "79.3268397"
+	},
+	{
+		"lastname": "Udasi",
+		"firstname": "Shri Shivkumar Chanabasappa",
+		"party": "Bharatiya Janata Party",
+		"city": "Haveri",
+		"state": "Karnataka",
+		"lat": "14.7959027",
+		"long": "75.3971254"
+	},
+	{
+		"lastname": "Udhayakumar",
+		"firstname": "Shri M.",
+		"party": "All India Anna Dravida Munnetra Kazhagam",
+		"city": "Dindigul",
+		"state": "Tamil Nadu",
+		"lat": "10.3673123",
+		"long": "77.9802906"
+	},
+	{
+		"lastname": "Ugrappa",
+		"firstname": "Shri Venkatapura Subbaiah",
+		"party": "Indian National Congress",
+		"city": "Bellary",
+		"state": "Karnataka",
+		"lat": "15.1393932",
+		"long": "76.9214428"
+	},
+	{
+		"lastname": "Usendi",
+		"firstname": "Shri Vikram",
+		"party": "Bharatiya Janata Party",
+		"city": "Kanker",
+		"state": "Chhattisgarh",
+		"lat": "20.1990123",
+		"long": "81.0754657"
+	},
+	{
+		"lastname": "V.",
+		"firstname": "Shri Elumalai",
+		"party": "All India Anna Dravida Munnetra Kazhagam",
+		"city": "Arani",
+		"state": "Tamil Nadu",
+		"lat": "12.6713363",
+		"long": "79.281759"
+	},
+	{
+		"lastname": "Vaghela",
+		"firstname": "Shri Liladharbhai Khodaji",
+		"party": "Bharatiya Janata Party",
+		"city": "Patan",
+		"state": "Gujarat",
+		"lat": "23.8493246",
+		"long": "72.1266255"
+	},
+	{
+		"lastname": "Vanaroja",
+		"firstname": "Smt. R.",
+		"party": "All India Anna Dravida Munnetra Kazhagam",
+		"city": "Tiruvannamalai",
+		"state": "Tamil Nadu",
+		"lat": "12.2252841",
+		"long": "79.0746957"
+	},
+	{
+		"lastname": "Varma",
+		"firstname": "Smt. Dev (Moon Moon Sen)",
+		"party": "All India Trinamool Congress",
+		"city": "Bankura",
+		"state": "West Bengal",
+		"lat": "23.164543",
+		"long": "87.0624261"
+	},
+	{
+		"lastname": "Vasava",
+		"firstname": "Shri Mansukhbhai Dhanjibhai",
+		"party": "Bharatiya Janata Party",
+		"city": "Bharuch",
+		"state": "Gujarat",
+		"lat": "21.7051358",
+		"long": "72.9958748"
+	},
+	{
+		"lastname": "Vasava",
+		"firstname": "Shri Prabhubhai Nagarbhai",
+		"party": "Bharatiya Janata Party",
+		"city": "Bardoli",
+		"state": "Gujarat",
+		"lat": "21.125749",
+		"long": "73.1121168"
+	},
+	{
+		"lastname": "Venkatesh Babu",
+		"firstname": "Shri T.G.",
+		"party": "All India Anna Dravida Munnetra Kazhagam",
+		"city": "Chennai North",
+		"state": "Tamil Nadu",
+		"lat": "13.0826802",
+		"long": "80.2707184"
+	},
+	{
+		"lastname": "Venugopal",
+		"firstname": "Shri K. C.",
+		"party": "Indian National Congress",
+		"city": "Alappuzha",
+		"state": "Kerala",
+		"lat": "9.4980667",
+		"long": "76.3388484"
+	},
+	{
+		"lastname": "Venugopal",
+		"firstname": "Dr. Ponnusamy",
+		"party": "All India Anna Dravida Munnetra Kazhagam",
+		"city": "Tiruvallur",
+		"state": "Tamil Nadu",
+		"lat": "13.2544335",
+		"long": "80.0087746"
+	},
+	{
+		"lastname": "Verma",
+		"firstname": "Shri Anshul",
+		"party": "Bharatiya Janata Party",
+		"city": "Hardoi",
+		"state": "Uttar Pradesh",
+		"lat": "27.3986345",
+		"long": "80.1316927"
+	},
+	{
+		"lastname": "Verma",
+		"firstname": "Shri Bhanu Pratap Singh",
+		"party": "Bharatiya Janata Party",
+		"city": "Jalaun",
+		"state": "Uttar Pradesh",
+		"lat": "26.1270922",
+		"long": "79.4703885"
+	},
+	{
+		"lastname": "Verma",
+		"firstname": "Shri Rajesh",
+		"party": "Bharatiya Janata Party",
+		"city": "Sitapur",
+		"state": "Uttar Pradesh",
+		"lat": "27.5839037",
+		"long": "80.666356"
+	},
+	{
+		"lastname": "Verma",
+		"firstname": "Smt. Rekha Arun",
+		"party": "Bharatiya Janata Party",
+		"city": "Dhaurahra",
+		"state": "Uttar Pradesh",
+		"lat": "27.3565321",
+		"long": "81.0354406"
+	},
+	{
+		"lastname": "Vichare",
+		"firstname": "Shri Rajan Baburao",
+		"party": "Shiv Sena",
+		"city": "Thane",
+		"state": "Maharashtra",
+		"lat": "19.2183307",
+		"long": "72.9780897"
+	},
+	{
+		"lastname": "Yadav",
+		"firstname": "Shri Akshay",
+		"party": "Samajwadi Party",
+		"city": "Firozabad",
+		"state": "Uttar Pradesh",
+		"lat": "27.1591961",
+		"long": "78.3957331"
+	},
+	{
+		"lastname": "Yadav",
+		"firstname": "Shri Dharmendra",
+		"party": "Samajwadi Party",
+		"city": "Badaun",
+		"state": "Uttar Pradesh",
+		"lat": "28.0311101",
+		"long": "79.1271229"
+	},
+	{
+		"lastname": "Yadav",
+		"firstname": "Smt. Dimple",
+		"party": "Samajwadi Party",
+		"city": "Kannauj",
+		"state": "Uttar Pradesh",
+		"lat": "27.0514156",
+		"long": "79.9136731"
+	},
+	{
+		"lastname": "Yadav",
+		"firstname": "Shri Hukmdev Narayan",
+		"party": "Bharatiya Janata Party",
+		"city": "Madhubani",
+		"state": "Bihar",
+		"lat": "26.4627955",
+		"long": "86.1751759"
+	},
+	{
+		"lastname": "Yadav",
+		"firstname": "Shri Jay Prakash Narayan",
+		"party": "Rashtriya Janata Dal",
+		"city": "Banka",
+		"state": "Bihar",
+		"lat": "24.8874179",
+		"long": "86.919838"
+	},
+	{
+		"lastname": "Yadav",
+		"firstname": "Dr. Karan Singh",
+		"party": "Indian National Congress",
+		"city": "Alwar",
+		"state": "Rajasthan",
+		"lat": "27.5529907",
+		"long": "76.6345735"
+	},
+	{
+		"lastname": "Yadav",
+		"firstname": "Shri Laxmi Narayan",
+		"party": "Bharatiya Janata Party",
+		"city": "Sagar",
+		"state": "Madhya Pradesh",
+		"lat": "40.7104442",
+		"long": "-73.7940917"
+	},
+	{
+		"lastname": "Yadav",
+		"firstname": "Shri Mulayam Singh",
+		"party": "Samajwadi Party",
+		"city": "Azamgarh",
+		"state": "Uttar Pradesh",
+		"lat": "26.0737044",
+		"long": "83.1859458"
+	},
+	{
+		"lastname": "Yadav",
+		"firstname": "Shri Om Prakash",
+		"party": "Bharatiya Janata Party",
+		"city": "Siwan",
+		"state": "Bihar",
+		"lat": "26.2196205",
+		"long": "84.3566593"
+	},
+	{
+		"lastname": "Yadav",
+		"firstname": "Shri Ram Kripal",
+		"party": "Bharatiya Janata Party",
+		"city": "Pataliputra",
+		"state": "Bihar",
+		"lat": "25.5940947",
+		"long": "85.1375645"
+	},
+	{
+		"lastname": "Yadav",
+		"firstname": "Shri Tejpratap Singh",
+		"party": "Samajwadi Party",
+		"city": "Mainpuri",
+		"state": "Uttar Pradesh",
+		"lat": "27.2284986",
+		"long": "79.0249516"
+	},
+	{
+		"lastname": "Yellaiah",
+		"firstname": "Shri Nandi",
+		"party": "Indian National Congress",
+		"city": "Nagarkurnool",
+		"state": "Telangana",
+		"lat": "16.4939417",
+		"long": "78.3102489"
+	}
 ]
