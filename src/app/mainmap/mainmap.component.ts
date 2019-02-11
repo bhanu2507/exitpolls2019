@@ -20,17 +20,13 @@ export class MainmapComponent implements OnInit {
       this.cons = res;
     });
   }
-  markerClicked($event: MouseEvent) {
-    console.log('clicked');
-    console.log($event);
-  }
   openDialog($event: MouseEvent) {
     const dialogRef = this.dialog.open(ConspopComponent, {
       width: '600px',
       data: $event
     });
     dialogRef.afterClosed().subscribe(result => {
-      console.log(`Dialog closed: ${result}`);
+      /* console.log(`Dialog closed: ${result}`); */
       this.dialogResult = result;
     });
   }

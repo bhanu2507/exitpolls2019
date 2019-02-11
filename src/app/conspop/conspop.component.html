@@ -1,12 +1,15 @@
-<mat-card color="primary">Simple card</mat-card>
+<mat-form-field>
+  <mat-select placeholder="Constituency" [(ngModel)]="city" (selectionChange)="onSelectChange($event.value)">
+    <mat-option *ngFor="let con of cons" [value]="con.city">
+      {{con.city}}
+    </mat-option>
+  </mat-select>
+</mat-form-field>
+<mat-card color="primary"><h2>{{city}}, {{stat}}</h2></mat-card>
 <div>
-  <h2 mat-dialog-title>MY DIALOG</h2>
-  <hr>
+  <h2 mat-dialog-title>{{fname}} {{lname}}</h2>
   <mat-dialog-content>
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam maxime cum dolorem officiis assumenda rem alias, omnis nobis nam. Ratione soluta libero architecto cupiditate at fugit consectetur sit dignissimos vitae.
-    <br>
-    <br>
-    <strong>{{data}}</strong>
+    <strong>{{party}}</strong>
   </mat-dialog-content>
   <hr>
   <mat-dialog-actions>
