@@ -14,6 +14,7 @@ import { MatToolbarModule, MatButtonModule, MatSidenavModule, MatInputModule, Ma
 import { MainmapComponent } from './mainmap/mainmap.component';
 import { ContactusComponent } from './contactus/contactus.component';
 import { ConspopComponent } from './conspop/conspop.component';
+import { FooterComponent } from './footer/footer.component';
 
 const appRoutes: Routes = [
   { path: 'contactus', component: ContactusComponent },
@@ -26,7 +27,8 @@ const appRoutes: Routes = [
     TopnavComponent,
     MainmapComponent,
     ContactusComponent,
-    ConspopComponent
+    ConspopComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,
