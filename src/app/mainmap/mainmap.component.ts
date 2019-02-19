@@ -1,7 +1,9 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, HostBinding } from '@angular/core';
 import { ReadjsonService } from '../readjson.service';
 import { MatDialog } from '@angular/material';
 import { ConspopComponent } from '../conspop/conspop.component';
+import { GetlatlngService } from '../getlatlng.service';
+
 @Component({
   selector: 'app-mainmap',
   templateUrl: './mainmap.component.html',
@@ -13,12 +15,14 @@ export class MainmapComponent implements OnInit {
   zoom = 4.7;
   cons: any;
   dialogResult = '';
-  constructor(public dialog: MatDialog, private readJson: ReadjsonService) { }
+  message: string;
+  constructor(public dialog: MatDialog, private readJson: ReadjsonService, private getlatlng: GetlatlngService) { }
 
   ngOnInit() {
     this.readJson.getJSON().then(res => {
       this.cons = res;
     });
+    this.getlatlng.currentMessage.subscribe(message => this.message = message);
   }
   openDialog($event: MouseEvent) {
     const dialogRef = this.dialog.open(ConspopComponent, {

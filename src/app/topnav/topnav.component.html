@@ -35,5 +35,11 @@
     </button>
     <span>2019 Exit Polls</span>
     <span class="example-spacer"></span>
+    <mat-form-field>
+      <mat-select placeholder="Select State" [(ngModel)]="state" (selectionChange)="onStateChange($event.value)">
+        <mat-option value="AP">Andhra Pradesh</mat-option>
+        <mat-option value="TS">Telangana</mat-option>
+      </mat-select>
+    </mat-form-field>
     <a [routerLink]="['/contactus']" [routerLinkActive]="['link-active']" mat-icon-button><mat-icon class="example-icon">face</mat-icon></a>
   </mat-toolbar>

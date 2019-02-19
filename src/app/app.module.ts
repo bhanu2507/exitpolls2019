@@ -33,7 +33,8 @@ const appRoutes: Routes = [
   imports: [
     BrowserModule,
     AgmCoreModule.forRoot({
-      apiKey: 'AIzaSyAXa9d_GSmDEI8dnrAdfHZk5myGtNPfdtQ'
+      apiKey: 'AIzaSyAXa9d_GSmDEI8dnrAdfHZk5myGtNPfdtQ',
+      libraries: ['places']
     }),
     LayoutModule,
     MatToolbarModule,

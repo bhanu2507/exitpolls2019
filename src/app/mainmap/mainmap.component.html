@@ -7,11 +7,6 @@
     [zoom]="zoom"
     id="AgmMap"
     #AgmMap>
-    <!-- <agm-marker 
-       [latitude]="lat"
-       [longitude]="lng"
-       [markerClickable]="true"
-       [iconUrl]="'/assets/map-marker-2-512.gif'"></agm-marker> -->
        <div *ngFor="let con of cons" >
        <span [ngSwitch]="con.party">
        <p *ngSwitchCase="'Indian National Congress'">
