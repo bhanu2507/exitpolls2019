@@ -7,7 +7,7 @@ import { Component, Input, HostListener } from '@angular/core';
 })
 export class AppComponent {
   title = 'app';
-  lat = 23.2599;
+/*   lat = 23.2599;
   lng = 77.4126;
-  zoom = 4.7;
+  zoom = 4.7; */
 }
