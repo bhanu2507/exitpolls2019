@@ -1,9 +1,10 @@
 .fixed-footer {
-    background-color: gainsboro;
+    background-color: whitesmoke;
     position: absolute;
     bottom: 0;
     left: 0;
-    z-index: 2;
+    z-index: 5;
     width: 100%  !important;
     opacity: 0.7;
   }
+

@@ -15,9 +15,29 @@
   position: absolute;
   top: 0;
   left: 0;
+  z-index: 3;
+  width: 100%  !important;
+  opacity: 0.6;
+}
+
+.fixed-header1 {
+  position: absolute;
+  top: 0;
+  left: 0;
   z-index: 2;
   width: 100%  !important;
-  opacity: 0.7;
+  height: 19%;
+  align-content: bottom;
+  background-color: white;
+  opacity: 0.9;
+}
+
+.insidediv {
+  position: absolute;
+  bottom: 0;
+  padding-left: 1%;
+  padding-bottom: 0; 
+
 }
 
 .my-select-panel-class{
