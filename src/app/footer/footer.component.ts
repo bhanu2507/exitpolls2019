@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { Socket } from 'ngx-socket-io';
 
 @Component({
   selector: 'app-footer',
@@ -7,9 +8,9 @@ import { Component, OnInit } from '@angular/core';
 })
 export class FooterComponent implements OnInit {
 
-  constructor() { }
+  constructor(private socket: Socket) { }
 
   ngOnInit() {
+    this.socket.on('tweet', (data) => console.log(data));
   }
-
 }

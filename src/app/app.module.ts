@@ -15,6 +15,9 @@ import { MainmapComponent } from './mainmap/mainmap.component';
 import { ContactusComponent } from './contactus/contactus.component';
 import { ConspopComponent } from './conspop/conspop.component';
 import { FooterComponent } from './footer/footer.component';
+import { SocketIoModule, SocketIoConfig } from 'ngx-socket-io';
+
+const config: SocketIoConfig = { url: 'http://13.233.65.55:3300', options: {}};
 
 const appRoutes: Routes = [
   { path: 'contactus', component: ContactusComponent },
@@ -50,6 +53,7 @@ const appRoutes: Routes = [
     BrowserAnimationsModule,
     NoopAnimationsModule,
     HttpClientModule,
+    SocketIoModule.forRoot(config),
     RouterModule.forRoot(appRoutes)
   ],
   entryComponents: [
