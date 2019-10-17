@@ -1,8 +1,9 @@
-import { Component, OnInit, HostBinding } from '@angular/core';
+import { Component, OnInit, HostBinding, ViewChild } from '@angular/core';
 import { ReadjsonService } from '../readjson.service';
 import { MatDialog } from '@angular/material';
 import { ConspopComponent } from '../conspop/conspop.component';
 import { GetlatlngService } from '../getlatlng.service';
+import {MatSidenav} from '@angular/material/sidenav';
 
 @Component({
   selector: 'app-mainmap',
@@ -10,6 +11,11 @@ import { GetlatlngService } from '../getlatlng.service';
   styleUrls: ['./mainmap.component.css']
 })
 export class MainmapComponent implements OnInit {
+  @ViewChild('sidenav') sidenav: MatSidenav;
+
+
+
+  shouldRun = [/(^|\.)plnkr\.co$/, /(^|\.)stackblitz\.io$/].some(h => h.test(window.location.host));
   lat = 23.2599;
   lng = 77.4126;
   zoom = 4.7;
@@ -18,6 +24,12 @@ export class MainmapComponent implements OnInit {
   scen: any;
   dialogResult = '';
   message: string;
+  reason = '';
+
+  close(reason: string) {
+    this.reason = reason;
+    this.sidenav.close();
+  }
   constructor(public dialog: MatDialog, private readJson: ReadjsonService, private getlatlng: GetlatlngService) { }
 
   ngOnInit() {

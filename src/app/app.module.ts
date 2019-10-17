@@ -10,14 +10,14 @@ import { AgmCoreModule } from '@agm/core';
 import { TopnavComponent } from './topnav/topnav.component';
 import { LayoutModule } from '@angular/cdk/layout';
 import { MatToolbarModule, MatButtonModule, MatSidenavModule, MatInputModule, MatSelectModule,
-  MatIconModule, MatListModule, MatDialogModule, MatCardModule, MatFormFieldModule} from '@angular/material';
+  MatIconModule, MatListModule, MatDialogModule, MatCardModule, MatFormFieldModule } from '@angular/material';
 import { MainmapComponent } from './mainmap/mainmap.component';
 import { ContactusComponent } from './contactus/contactus.component';
 import { ConspopComponent } from './conspop/conspop.component';
 import { FooterComponent } from './footer/footer.component';
 import { SocketIoModule, SocketIoConfig } from 'ngx-socket-io';
 
-const config: SocketIoConfig = { url: 'http://13.233.65.55:3300', options: {}};
+const config: SocketIoConfig = { url: 'https://wynlab.com:3300', options: {}};
 
 const appRoutes: Routes = [
   { path: 'contactus', component: ContactusComponent },
@@ -36,7 +36,7 @@ const appRoutes: Routes = [
   imports: [
     BrowserModule,
     AgmCoreModule.forRoot({
-      apiKey: 'AIzaSyAXa9d_GSmDEI8dnrAdfHZk5myGtNPfdtQ',
+      apiKey: 'AIzaSyAXeVx9SW9E8L1P3HK91SVOxMb3hEAXlHY',
       libraries: ['places']
     }),
     LayoutModule,

@@ -1,5 +1,10 @@
 .sidenav-container {
   height: 100%; 
+  position: absolute;
+}
+
+.sidenav-content {
+  display: inline;
 }
 
 .sidenav {
@@ -17,7 +22,7 @@
   left: 0;
   z-index: 3;
   width: 100%  !important;
-  opacity: 0.6;
+  opacity: 0.85;
 }
 
 .fixed-header1 {
@@ -41,5 +46,9 @@
 }
 
 .my-select-panel-class{
-  font-size: 12px;   
+  font-size: 11px;   
+}
+
+.mat-toolbar-row, .mat-toolbar-single-row {
+  height: 54px;
 }

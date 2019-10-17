@@ -1,28 +1,60 @@
-<div class="outer-wrapper">
-  <div class="map-wrapper" id="wrapper" #wrapper>
-  <agm-map
-    [latitude]="lat"
-    [longitude]="lng"
-    [scrollwheel]="true"
-    [zoom]="zoom"
-    id="AgmMap"
-    #AgmMap>
-       <div *ngFor="let con of cons" >
-       <span [ngSwitch]="con.party">
-       <p *ngSwitchCase="'Indian National Congress'">
-        <agm-marker [latitude]="con.lat" [longitude]="con.long" [markerClickable]="true" [iconUrl]="'/assets/congres.png'" (markerClick)="openDialog(con.firstname)"></agm-marker> 
-       </p>
-       <p *ngSwitchCase="'Bharatiya Janata Party'">
-        <agm-marker [latitude]="con.lat" [longitude]="con.long" [markerClickable]="true" [iconUrl]="'/assets/bjp.png'" (markerClick)="openDialog(con.firstname)"></agm-marker>
-       </p>
-       <p *ngSwitchDefault>
-        <agm-marker [latitude]="con.lat" [longitude]="con.long" [markerClickable]="true" [iconUrl]="'/assets/map-marker-2-512.gif'" (markerClick)="openDialog(con.firstname)"></agm-marker> 
-       </p>
-       </span>
 
-       
-       </div>   
-       
-  </agm-map>
-  </div>
-</div>
+
+<!-- <mat-sidenav-container class="example-container" [hasBackdrop]="hasBackdrop.value">
+  <mat-sidenav #sidenav [mode]="mode.value">I'm a drawer</mat-sidenav>
+  <mat-sidenav-content> -->
+    <div class="outer-wrapper">
+      <div class="map-wrapper" id="wrapper" #wrapper>
+      <agm-map
+        [latitude]="lat"
+        [longitude]="lng"
+        [scrollwheel]="true"
+        [zoom]="zoom"
+        [streetViewControl]="false"
+        [zoomControl]="false"
+        id="AgmMap"
+        #AgmMap>
+           <div *ngFor="let con of cons" >
+           <span [ngSwitch]="con.party">
+           <p *ngSwitchCase="'Indian National Congress'">
+            <agm-marker [latitude]="con.lat" [longitude]="con.long" [markerClickable]="true" [iconUrl]="'/assets/congres.png'" (markerClick)="openDialog(con.firstname)"></agm-marker> 
+           </p>
+           <p *ngSwitchCase="'Bharatiya Janata Party'">
+            <agm-marker [latitude]="con.lat" [longitude]="con.long" [markerClickable]="true" [iconUrl]="'/assets/bjp.png'" (markerClick)="openDialog(con.firstname)"></agm-marker>
+           </p>
+           <p *ngSwitchCase="'Samajwadi Party'">
+            <agm-marker [latitude]="con.lat" [longitude]="con.long" [markerClickable]="true" [iconUrl]="'/assets/samajwadi.png'" (markerClick)="openDialog(con.firstname)"></agm-marker>
+           </p>
+           <p *ngSwitchCase="'Telugu Desam Party'">
+            <agm-marker [latitude]="con.lat" [longitude]="con.long" [markerClickable]="true" [iconUrl]="'/assets/samajwadi.png'" (markerClick)="openDialog(con.firstname)"></agm-marker>
+           </p>
+           <p *ngSwitchCase="'All India Anna Dravida Munnetra Kazhagam'">
+            <agm-marker [latitude]="con.lat" [longitude]="con.long" [markerClickable]="true" [iconUrl]="'/assets/aiadmk.png'" (markerClick)="openDialog(con.firstname)"></agm-marker>
+           </p>
+           <p *ngSwitchCase="'Yuvajana Sramika Rythu Congress Party'">
+            <agm-marker [latitude]="con.lat" [longitude]="con.long" [markerClickable]="true" [iconUrl]="'/assets/ysrcp.png'" (markerClick)="openDialog(con.firstname)"></agm-marker>
+           </p>
+           <p *ngSwitchCase="'All India Trinamool Congress'">
+            <agm-marker [latitude]="con.lat" [longitude]="con.long" [markerClickable]="true" [iconUrl]="'/assets/trinamool.png'" (markerClick)="openDialog(con.firstname)"></agm-marker>
+           </p>
+           <p *ngSwitchCase="'Telangana Rashtra Samithi'">
+            <agm-marker [latitude]="con.lat" [longitude]="con.long" [markerClickable]="true" [iconUrl]="'/assets/trs.png'" (markerClick)="openDialog(con.firstname)"></agm-marker>
+           </p>
+           <p *ngSwitchCase="'Nationalist Congress Party'">
+            <agm-marker [latitude]="con.lat" [longitude]="con.long" [markerClickable]="true" [iconUrl]="'/assets/ncp.png'" (markerClick)="openDialog(con.firstname)"></agm-marker>
+           </p>
+           <p *ngSwitchCase="'Biju Janata Dal'">
+            <agm-marker [latitude]="con.lat" [longitude]="con.long" [markerClickable]="true" [iconUrl]="'/assets/bjd.png'" (markerClick)="openDialog(con.firstname)"></agm-marker>
+           </p>
+           <p *ngSwitchDefault>
+            <agm-marker [latitude]="con.lat" [longitude]="con.long" [markerClickable]="true" [iconUrl]="'/assets/map-marker-2-512.gif'" (markerClick)="openDialog(con.firstname)"></agm-marker> 
+           </p>
+           </span>
+           </div>
+      </agm-map>
+      </div>
+    </div>
+<!--     <button mat-raised-button (click)="drawer.toggle()">Toggle drawer</button>
+  </mat-sidenav-content>
+</mat-sidenav-container> -->
+
