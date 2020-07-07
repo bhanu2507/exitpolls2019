@@ -26,7 +26,7 @@
     "@schematics/angular": "^7.3.0",
     "core-js": "^2.5.4",
     "ngx-socket-io": "^2.1.1",
-    "npm": "^6.12.0",
+    "npm": "^6.14.6",
     "rxjs": "^6.2.1",
     "rxjs-compat": "^6.2.1",
     "zone.js": "^0.8.26"
